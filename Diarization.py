@@ -11,8 +11,13 @@ Play around with a different format for audio file
 pip3 install pydub
 pip3 install pyannote.audio
 '''
-from pydub import AudioSegment
 
+
+# Commented out the splitting up part
+
+import os
+from pydub import AudioSegment
+'''
 t1 = 0 * 1000 # works in milliseconds
 t2 = 20 * 60 * 1000
 
@@ -28,17 +33,21 @@ spacer = AudioSegment.silent(duration=spacermilli)
 audio = spacer.append(audio, crossfade=0)
 
 audio.export('audio.mp3', format='mp3')
-     
+'''  
 # Use the entire file for the complete transcription
 # up the char limit on the GPT model
 
-
 from pyannote.audio import Pipeline
 
-pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization','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')
+#HF_AUTH = os.getenv('HF_AUTH')
+
+#pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization',use_auth_token=HF_AUTH) # why tf is this not working thenv ?
+
+pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
+                                    use_auth_token="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")
 
 DEMO_FILE = {'uri': 'blabal', 'audio': 'audio.mp3'}
-dz = pipeline(DEMO_FILE)  
+dz = pipeline(DEMO_FILE)
 
 with open("diarization.txt", "w") as text_file:
     text_file.write(str(dz))

@@ -1,1 +1,11 @@
 creativedestruction.xyz
+
+To add files in gitignore, you have to enter the relative file path to it
+
+for example if gitignore and the file to ignore are in the same directory
+
+You'll type `.filename.extension`
+
+if .gitignore is where it was and the file is in a folder named Bot, then
+
+'./Bot/filename.extension'
