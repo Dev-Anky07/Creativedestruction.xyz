@@ -1,0 +1,12 @@
+{
+  "name": "act2.0",
+  "version": "1.1.0",
+  "description": "",
+  "main": "ape.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
