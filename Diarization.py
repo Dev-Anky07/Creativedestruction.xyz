@@ -11,13 +11,9 @@ Play around with a different format for audio file
 pip3 install pydub
 pip3 install pyannote.audio
 '''
-
-
-# Commented out the splitting up part
-
 import os
 from pydub import AudioSegment
-'''
+
 t1 = 0 * 1000 # works in milliseconds
 t2 = 20 * 60 * 1000
 
@@ -33,7 +29,7 @@ spacer = AudioSegment.silent(duration=spacermilli)
 audio = spacer.append(audio, crossfade=0)
 
 audio.export('audio.mp3', format='mp3')
-'''  
+
 # Use the entire file for the complete transcription
 # up the char limit on the GPT model
 
