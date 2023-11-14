@@ -13,7 +13,7 @@ def download_Audio(yt):
     audio = yt.streams.get_by_itag(input_itag)
     
     # download the Video inn audio format..
-    audio.download() # audio.download(r"New path where you want to save the file")
+    audio.download(r"Archive/Youtube/Songs")
     print("Audio is Downloading as ",yt.title+".mp3")
     
 link = "https://www.youtube.com/watch?v=XKD9UxvdbVU"
@@ -22,3 +22,15 @@ yt = YouTube(link)
 
 # call the function
 download_Audio(yt)
+
+## This is currently archiving the file in an mp4 format, 
+
+''' 
+
+The path would be like archive/yt/{tag of user}
+
+Tag would act as a unique identifier for a certain user of the code
+
+Name of the archived audio/video file should resemble the unique code identifier (maybe !?)
+
+'''

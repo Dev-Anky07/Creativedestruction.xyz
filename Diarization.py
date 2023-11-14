@@ -6,13 +6,12 @@ pip3 install -U yt-dlp
 !yt-dlp -xv --ffmpeg-location ffmpeg-master-latest-linux64-gpl/bin --audio-format mp3  -o download.mp3 -- https://youtu.be/yixIc1Ai6jM prev one 'SGzMElJ11Cc'
 # Andrew Huberman's Marc Andreessen: How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience : https://www.youtube.com/watch?v=yixIc1Ai6jM
 
-Play around with a different format for audio file
-
 pip3 install pydub
 pip3 install pyannote.audio
 '''
 import os
 from pydub import AudioSegment
+
 
 t1 = 0 * 1000 # works in milliseconds
 t2 = 20 * 60 * 1000
@@ -30,7 +29,7 @@ audio = spacer.append(audio, crossfade=0)
 
 audio.export('audio.mp3', format='mp3')
 
-# Use the entire file for the complete transcription
+# Use the entire file for the complete transcription || 
 # up the char limit on the GPT model
 
 from pyannote.audio import Pipeline
@@ -39,11 +38,12 @@ from pyannote.audio import Pipeline
 
 #pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization',use_auth_token=HF_AUTH) # why tf is this not working thenv ?
 
-pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1",
-                                    use_auth_token="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")
+pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.0",
+                                    use_auth_token="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")
 
 DEMO_FILE = {'uri': 'blabal', 'audio': 'audio.mp3'}
 dz = pipeline(DEMO_FILE)
+
 
 with open("diarization.txt", "w") as text_file:
     text_file.write(str(dz))
@@ -91,6 +91,7 @@ segments[:8]
 
 del   sounds, DEMO_FILE, pipeline, spacer,  audio, dz, a, newAudio
 
+
 # Whisper AI Transcriptions (offline, no need for api keys)
 # pip3 install git+https://github.com/openai/whisper.git 
 
@@ -101,7 +102,7 @@ del   sounds, DEMO_FILE, pipeline, spacer,  audio, dz, a, newAudio
 
 import webvtt
 
-captions = [[(int)(millisec(caption.start)), (int)(millisec(caption.end)),  caption.text] for caption in webvtt.read('dz.mp3.vtt')]
+captions = [[(int)(millisec(caption.start)), (int)(millisec(caption.end)),  caption.text] for caption in webvtt.read('dz.vtt')]
 print(*captions[:8], sep='\n')
 
 # Matching transcriptions with diarations
@@ -140,13 +141,13 @@ for i in range(len(segments)):
     html.append('\t\t\t<div class="c">\n')
     html.append(f'\t\t\t\t<a class="l" href="#{startStr}" id="{startStr}">link</a> |\n')
     html.append(f'\t\t\t\t<div class="s"><a href="javascript:void(0);" onclick=setCurrentTime({int(start)})>{startStr}</a></div>\n')
-    html.append(f'\t\t\t\t<div class="t">{"[Lex]" if dzList[i][2] else "[Yann]"} {c[2]}</div>\n')
+    html.append(f'\t\t\t\t<div class="t">{"[Andrew]" if dzList[i][2] else "[Marc]"} {c[2]}</div>\n')
     html.append('\t\t\t</div>\n\n')
 
 html.append(postS)
 s = "".join(html)
 
-with open("Poedast.html", "w") as text_file:
+with open("Podcast.html", "w") as text_file:
     text_file.write(s)
 print(s)
 

@@ -3,6 +3,14 @@ import { Client, GatewayIntentBits } from "discord.js";
 import OpenAI from "openai";
 import { spawn } from "child_process";
 
+/*
+npm i dotenv
+npm i discord.js
+npm i openai
+npm i childprocessnpm i
+*/
+
+
 dotenv.config();
 
 const client = new Client({
@@ -42,7 +50,8 @@ client.on("messageCreate", async function (message) {
     messages.push({ role: "user", content: message.content });
 
     if (botMentioned) {
-      const pythonScript = spawn("python", ["SimilaritySearch.py"]);
+      //const pythonScript = spawn("python", ["SimilaritySearch.py"]);
+      const pythonScript = spawn("python", ["SimSea.py"]);
 
       // Send user input to the Python script
       pythonScript.stdin.write(message.content);
