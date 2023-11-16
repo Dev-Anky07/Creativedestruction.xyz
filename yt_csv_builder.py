@@ -2,15 +2,44 @@ from googleapiclient.discovery import build
 import csv
 import os
 from dotenv import load_dotenv
+import time
 
+startTime = time.time()
+
+# Loads the environment variables :
 load_dotenv()
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
-channel_id = input("Enter the Channel ID : ")
-#api_key = input("Enter API KEY : ")
+# Extracts username from link to channel :
+def extract_username(link):
+   return link.replace('https://www.youtube.com/@', '')
 
-# Don't forget to change the max_results parameter accordingly
+link = input("Enter link to the Channel : ")
+username = extract_username(link)
+print(username)
 
+# Extracts channel_id from url and username :
+from googleapiclient.discovery import build
+
+def get_channel_id(GOOGLE_API_KEY, username):
+   youtube = build('youtube', 'v3', developerKey=GOOGLE_API_KEY)
+
+   request = youtube.search().list(
+       part="snippet",
+       type="channel",
+       q=username,
+       fields="items(id(channelId))"
+   )
+   response = request.execute()
+
+   if response['items']:
+       return response['items'][0]['id']['channelId']
+   else:
+       return None
+
+channel_id = get_channel_id(GOOGLE_API_KEY, username)
+
+# Queries the API and retrieves the required info :
 def get_channel_videos(GOOGLE_API_KEY, channel_id, max_results=50):
    youtube = build('youtube', 'v3', developerKey=GOOGLE_API_KEY)
 
@@ -31,14 +60,22 @@ def save_to_csv(filename, urls):
         for url, video_id, upload_time, title, description in urls:
             writer.writerow([url, video_id, upload_time, title, description])
 
-# Use the functions
-csv_filename = f"{channel_id}.csv"
+# Names the file :
+csv_filename = f"{username}.csv"
 
+# Parses the retrieved values onto the .csv file :
 urls = get_channel_videos(GOOGLE_API_KEY, channel_id)
 save_to_csv(csv_filename, urls)
 
+# Measures time to completion :
+executionTime = (time.time() - startTime)
+print('Execution time in seconds: ' + str(executionTime))
+
 
 ''' OLDER CODE 1.0 :
+
+#channel_id = input("Enter the Channel ID : ")
+#api_key = input("Enter API KEY : ")
 
 from googleapiclient.discovery import 
 import csv
@@ -73,6 +110,8 @@ save_to_csv(csv_filename, urls)
 '''
 
 ''' OLDER CODE 2.0 : 
+#channel_id = input("Enter the Channel ID : ")
+#api_key = input("Enter API KEY : ")
  def get_channel_videos(api_key, channel_id, max_results=50):
     youtube = build('youtube', 'v3', developerKey = GOOGLE_API_KEY)
 
