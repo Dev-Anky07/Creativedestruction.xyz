@@ -3,6 +3,7 @@ import csv
 import os
 from dotenv import load_dotenv
 import time
+import subprocess
 
 startTime = time.time()
 
@@ -70,6 +71,9 @@ save_to_csv(csv_filename, urls)
 # Measures time to completion :
 executionTime = (time.time() - startTime)
 print('Execution time in seconds: ' + str(executionTime))
+
+# Run the second script from within the first script and pass the arguments
+# subprocess.run(["python", "multi_yt_arc.py", username, csv_filename])
 
 
 ''' OLDER CODE 1.0 :

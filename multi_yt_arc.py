@@ -20,10 +20,11 @@ def download_audio(user_tag, csv_filename):
         for row in reader:
             url = row[0]  # Assuming the URL is in the first column
             video_code = get_video_code(url)
+            video_id = row[1]
             if video_code is not None:
-                output_dir = f"./archive/youtube/{user_tag}"
+                output_dir = f"./archive/youtube/{user_tag}/{video_id}"
                 os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
-                output_filename = f"{output_dir}/{video_code}.mp3"
+                output_filename = f"{output_dir}/{video_code}"
                 ydl_opts = {
                     'format': 'bestaudio/best',
                     'outtmpl': output_filename,
@@ -40,7 +41,7 @@ def download_audio(user_tag, csv_filename):
 
 # Use the function
 user_tag = input("Enter the user tag: ")
-csv_filename = input("Enter the CSV filename: ")
+csv_filename = f"{user_tag}.csv"
 download_audio(user_tag, csv_filename)
 
 
