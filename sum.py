@@ -20,10 +20,11 @@ with open(csv_filename, "r") as file:
    next(csv_reader)
    for row in csv_reader:
        video_id = row[1]
-       if video_id is not None:
-        startTime = time.time()
-
-       audio_url = f"./archive/youtube/{username}/{video_id}.mp3"
+       title = row[3]
+       if video_id is None or video_id == '': # if video_id is not None:
+         continue
+       
+       audio_url = f"./archive/youtube/{username}/{video_id}/{video_id}.mp3"
 
        config = aai.TranscriptionConfig(
            summarization=True,
@@ -32,6 +33,8 @@ with open(csv_filename, "r") as file:
        )
 
        transcript = aai.Transcriber().transcribe(audio_url, config)
+       print("Summarized " + str(video_id) + " : " + str(title))
+       # print("Summarized " + str(video_id)) # print("Summarized " + str(video_id) + " : " + str(title))
 
        # Create the directory if it doesn't exist
        output_dir = f"./archive/youtube/{username}/{video_id}"
@@ -42,7 +45,11 @@ with open(csv_filename, "r") as file:
            file.write(transcript.summary)
          else:
 
-          '''
+
+
+          print("Summarized all files from " + str(username) + " Successfully 🎉✨")
+
+''' 
 import time
 import assemblyai as aai
 import os

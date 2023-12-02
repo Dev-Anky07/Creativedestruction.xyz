@@ -18,15 +18,17 @@ with open(csv_filename, "r") as file:
   next(csv_reader)
   for row in csv_reader:
       video_id = row[1]
+      title = row[3]
       
       # Skip if video_id is None or empty
       if video_id is None or video_id == '':
          continue
 
-      audio_url = f"./archive/youtube/{username}/{video_id}.mp3"
+      audio_url = f"./archive/youtube/{username}/{video_id}/{video_id}.mp3"
       config = aai.TranscriptionConfig(speaker_labels=True)
       transcript = aai.Transcriber().transcribe(audio_url, config)
-      print(transcript.text)
+      #print(transcript.text)
+      print("Transcribed " + str(video_id) + " : " + str(title) + " Sucessfully 🎉✨") # print("Transcribed " + str(video_id) + " : " + str(title))
 
       def convert_ms_to_time(ms):
          seconds = ms / 1000

@@ -154,20 +154,8 @@ print(s)
 
 '''
 
-Explain functionality : Takes in audio file from a url using Feedparser and passes it on to openai to transcribe, then the transcription + the instruction prompt is passed on as a request to the gpt 3.5 model to summarise it according to the prompt it has been fed
+Explain functionality : Takes in audio file from a url and passes it on to openai to transcribe
 
-Version History :  
-'''
-
-'''
-v1.0 : Vanilla functionality (Modify the HTML styling functionality) || 
-'''
-
-'''
-v1.1 : Different audio formats and upgraded GPT models. Audio file is sourced from twitter + Upgraded model to GPT 4 32K (Keep the demo short, preferrably limited to 20 minutes)
-'''
-
-'''
 v1.2 : Archive files from twitter using the link stuff, sent to a specific repository
 '''
 

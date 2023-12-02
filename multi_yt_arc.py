@@ -21,6 +21,10 @@ def download_audio(user_tag, csv_filename):
             url = row[0]  # Assuming the URL is in the first column
             video_code = get_video_code(url)
             video_id = row[1]
+
+            if video_id is None or video_id == '':
+               print(f"Invalid video_id: {video_id}")
+               continue
             if video_code is not None:
                 output_dir = f"./archive/youtube/{user_tag}/{video_id}"
                 os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
@@ -44,6 +48,7 @@ user_tag = input("Enter the user tag: ")
 csv_filename = f"{user_tag}.csv"
 download_audio(user_tag, csv_filename)
 
+print("Archived all files from " + str(user_tag) + " Successfully 🎉✨")
 
 '''
 import yt_dlp
