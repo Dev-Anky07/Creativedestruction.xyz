@@ -20,7 +20,7 @@ with open(csv_filename, "r") as file:
    next(csv_reader)
    for row in csv_reader:
        spaces_id = row[1]
-       title = row[3]
+       title = row[2]
        if spaces_id is None or spaces_id == '': # if spaces_id is not None:
          continue
        
