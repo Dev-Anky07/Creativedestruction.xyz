@@ -8,7 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import csv
 
-my_user = "ThreaToSociety2"
+#my_user = "ThreaToSociety2"
+my_user = "ThreatT0Society"
 my_pass = "Anky@123"
 
 service = Service(executable_path='/Users/anky/Downloads/geckodriver')
@@ -35,35 +36,71 @@ time.sleep(3)
 
 driver.get('https://twitter.com/ApeComms') # replace 'john' with the username you want to scrape
 
+#tweet_links = []
+tweet_content = []
 last_height = driver.execute_script("return document.body.scrollHeight")
+
+while True:
+  driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+  time.sleep(5)
+
+  #tweets = driver.find_elements(By.XPATH, "//div[@data-testid='tweetText']")
+  tweets = WebDriverWait(driver, 5).until(EC.visibility_of_all_elements_located((By.XPATH, ".//div[@data-testid='tweetText']")))
+  #link = driver.find_elements(By.XPATH, "//a[href]").get_attribute('href')
+
+  for tweet in tweets:
+     content = tweet.text
+     tweet_content.append(content)
+     #tweet_links.append(link)
+
+  new_height = driver.execute_script("return document.body.scrollHeight")
+  if new_height == last_height:
+   break
+  last_height = new_height
+
+with open('tweets.csv', 'w', newline='') as file:
+ writer = csv.writer(file)
+ writer.writerow(["Tweet Content"])
+ for link in tweet_content:
+   writer.writerow([content])
+
+
+
+
+'''
+#last_height = driver.execute_script("return document.body.scrollHeight")
 
 #tweet_contents = []
 tweet_links = []
 
-while True:
+scroll_counter = 0
+while scroll_counter < 10: # loop 10 times
+ last_height = driver.execute_script("return document.body.scrollHeight")
+
+ while True:
   driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
   time.sleep(5)
 
   tweets = driver.find_elements(By.CSS_SELECTOR, 'div[data-testid="tweet"]')
 
   for tweet in tweets:
-      #content = tweet.find_element(By.CSS_SELECTOR, 'div[data-testid="tweetText"]').text
       link = tweet.find_element(By.CSS_SELECTOR, 'a[href]').get_attribute('href')
-      #tweet_contents.append(content)
       tweet_links.append(link)
+      
 
   new_height = driver.execute_script("return document.body.scrollHeight")
   if new_height == last_height:
       break
   last_height = new_height
 
-with open('tweets.csv', 'w', newline='') as file:
-  writer = csv.writer(file)
-  #writer.writerow(["Tweet Content", "Tweet Link"])
-  writer.writerow(["Tweet Link"])
-  for content, link in zip(tweet_links):
-      writer.writerow([link])
+  scroll_counter += 1
 
+with open('tweets.csv', 'w', newline='') as file:
+ writer = csv.writer(file)
+ writer.writerow(["Tweet Link"])
+ for link in tweet_links:
+     writer.writerow([link])
+'''
 
 
 

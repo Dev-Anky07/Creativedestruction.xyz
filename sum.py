@@ -24,6 +24,7 @@ with open(csv_filename, "r") as file:
        if video_id is None or video_id == '': # if video_id is not None:
          continue
        
+       startTime = time.time()
        audio_url = f"./archive/youtube/{username}/{video_id}/{video_id}.mp3"
 
        config = aai.TranscriptionConfig(
@@ -33,8 +34,9 @@ with open(csv_filename, "r") as file:
        )
 
        transcript = aai.Transcriber().transcribe(audio_url, config)
-       print("Summarized " + str(video_id) + " : " + str(title))
-       # print("Summarized " + str(video_id)) # print("Summarized " + str(video_id) + " : " + str(title))
+       print("Summarized " + str(video_id) + " : " + str(title) + " Sucessfully 🥳")
+       executionTime = (time.time() - startTime)
+       print('Execution time in seconds: ' + str(executionTime))
 
        # Create the directory if it doesn't exist
        output_dir = f"./archive/youtube/{username}/{video_id}"

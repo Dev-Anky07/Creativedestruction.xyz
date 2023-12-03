@@ -24,11 +24,14 @@ with open(csv_filename, "r") as file:
       if video_id is None or video_id == '':
          continue
 
+      startTime = time.time()
       audio_url = f"./archive/youtube/{username}/{video_id}/{video_id}.mp3"
       config = aai.TranscriptionConfig(speaker_labels=True)
       transcript = aai.Transcriber().transcribe(audio_url, config)
       #print(transcript.text)
-      print("Transcribed " + str(video_id) + " : " + str(title) + " Sucessfully 🎉✨") # print("Transcribed " + str(video_id) + " : " + str(title))
+      print("Transcribed " + str(video_id) + " : " + str(title) + " Sucessfully 🎉✨")
+      executionTime = (time.time() - startTime)
+      print('Execution time in seconds: ' + str(executionTime))
 
       def convert_ms_to_time(ms):
          seconds = ms / 1000
