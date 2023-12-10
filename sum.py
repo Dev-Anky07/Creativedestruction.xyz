@@ -20,7 +20,7 @@ with open(csv_filename, "r") as file:
    next(csv_reader)
    for row in csv_reader:
        video_id = row[1]
-       title = row[3]
+       title = row[2]
        if video_id is None or video_id == '': # if video_id is not None:
          continue
        
