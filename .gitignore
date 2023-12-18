@@ -6,7 +6,7 @@
 *.mp3
 *.mp4
 *.vtt
-*.txt
+#*.txt
 *.html
 *.m4a
 !requirements.txt
