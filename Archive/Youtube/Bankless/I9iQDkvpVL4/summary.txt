@@ -1,0 +1,1 @@
+- DYDX is planning DYDX version four, which is a Cosmos chain. The main reason they're doing this is regulatory. 50% of the token supply belongs to insiders anyway. With a CosmosChain, for example, they can spin up their own validators.

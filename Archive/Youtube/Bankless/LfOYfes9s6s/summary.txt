@@ -1,0 +1,1 @@
+- Blockchains provide a very good interface for AI to participate. How do we build models in a way that they're not controlled by a central powerful corporation? For the exact same reason why we want decentralized money, we may want decentralized AI.

@@ -1,0 +1,2 @@
+- Corey: Spellrush is building deep learning tools for art and artists. He says their tool can draw a character in sub 2 seconds. Corey: The possibilities are kind of endless in that respect.
+- We train our network by basically crawling publicly available images off the Internet. Using the power of AI, you can draw things that normal illustrators wouldn't even want to draw. We're building internally the world's first AI illustrated game. Right now, we're a small team, but we're looking to hire our 6th person.

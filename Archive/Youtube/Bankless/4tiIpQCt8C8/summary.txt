@@ -1,0 +1,1 @@
+- We wouldn't need cookies in this model. Just the ones we need are typically used to maintain sessions. It's possible to shift to a system where you just show up with your keys again. It works kind of like sending a transaction to Ethereum.

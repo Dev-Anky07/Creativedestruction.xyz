@@ -1,0 +1,1 @@
+- Ledger introduced a new product called Ledger Recover, which lets you recover your seed phrase using your ID. The idea of software being able to pull out a seed phrase is very concerning because that is the point of a hardware wallet.

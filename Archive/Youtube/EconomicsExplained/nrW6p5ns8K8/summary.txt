@@ -1,0 +1,2 @@
+- Eve Online is a massively multiplayer online game. Almost every item in this game, from rounds of ammunition to space stations are player made. This means that Eve Online has a surprisingly realistic and genuinely fascinating economy.
+- Eve Online has player owned sovereign territory. This means that groups of players can assemble into alliances and start their own ingame nations. Using this, we can work out the GDP of one of these ingame player nations. This is based on the Monthly Economic Report from CCP.

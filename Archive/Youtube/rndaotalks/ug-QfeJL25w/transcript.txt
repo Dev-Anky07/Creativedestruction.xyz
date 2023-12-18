@@ -1,0 +1,512 @@
+[ 0:00:12.000 ---> 0:00:26.000 ] Speaker A : And I've been doing network analysis work with organizations for about 1015 years now. And I came to this work through a mentor, Karen Stevenson, and at that.
+[ 0:00:26.000 ---> 0:00:29.000 ] Speaker B : Point so my background is in organization development and change.
+[ 0:00:29.000 ---> 0:00:31.000 ] Speaker A : And in organization development we talk a.
+[ 0:00:31.000 ---> 0:00:35.000 ] Speaker B : Lot, or at least we talked a lot then about the informal system and.
+[ 0:00:35.000 ---> 0:00:43.000 ] Speaker A : That there's a formal system of an organizational structure. But there's also this informal system that has a lot to do with how.
+[ 0:00:43.000 ---> 0:00:47.000 ] Speaker B : The organization behaves and performs and what it's like to work in the organization.
+[ 0:00:48.000 ---> 0:00:50.000 ] Speaker A : And what network analysis gave me as.
+[ 0:00:50.000 ---> 0:00:54.000 ] Speaker B : A tool that helped illuminate that informal network.
+[ 0:00:54.000 ---> 0:00:57.000 ] Speaker A : So I think what I've been asked.
+[ 0:00:57.000 ---> 0:01:00.000 ] Speaker B : To do here is speak for about 20 minutes.
+[ 0:01:00.000 ---> 0:01:05.000 ] Speaker A : Is that about right? 20 minutes and then open up to a conversation?
+[ 0:01:05.000 ---> 0:01:17.000 ] Speaker C : Yeah, 2030 minutes. Make sure to cover the space is yours. We always love discussing, and we'll take as much time as that as possible, but make sure you have enough time to explain your topic properly.
+[ 0:01:18.000 ---> 0:01:19.000 ] Speaker B : All right, great.
+[ 0:01:19.000 ---> 0:01:27.000 ] Speaker A : So then what I am going to do is I'm going to share some slides because, as you know, network analysis.
+[ 0:01:27.000 ---> 0:01:36.000 ] Speaker B : Is visual, so it's helpful to have some visuals as we go. So you've already heard a little bit.
+[ 0:01:36.000 ---> 0:01:48.000 ] Speaker A : About my background, and what I'd like to do today is just broaden your exposure to how Ona can be used.
+[ 0:01:48.000 ---> 0:01:50.000 ] Speaker B : Within organizations, practical applications.
+[ 0:01:50.000 ---> 0:01:51.000 ] Speaker A : And it sounds like we do have.
+[ 0:01:51.000 ---> 0:01:58.000 ] Speaker B : Quite a bit of experience in the room, people who've been thinking about things like organizational design and user experience, so.
+[ 0:01:58.000 ---> 0:02:06.000 ] Speaker A : Things that are very much connected to Ona. But I'm going to share a little bit around some practical in the trenches.
+[ 0:02:06.000 ---> 0:02:07.000 ] Speaker B : What does it look like?
+[ 0:02:07.000 ---> 0:02:10.000 ] Speaker A : And we'll look at two organizations and.
+[ 0:02:10.000 ---> 0:02:12.000 ] Speaker B : How they applied network analysis.
+[ 0:02:12.000 ---> 0:02:24.000 ] Speaker A : So I will talk for a little bit. There's a few points in here where we can stop and do a pause for questions, reflections. Feel free to jump in if there's.
+[ 0:02:24.000 ---> 0:02:26.000 ] Speaker B : Something that doesn't make sense along the way.
+[ 0:02:28.000 ---> 0:02:35.000 ] Speaker A : So the first situation I'm going to share, this was the Bayer Crop Science client.
+[ 0:02:35.000 ---> 0:02:37.000 ] Speaker B : So worked with them for several years.
+[ 0:02:37.000 ---> 0:02:45.000 ] Speaker A : They were really interesting organization. At the time I worked with them, they had offices really all over the globe.
+[ 0:02:45.000 ---> 0:02:49.000 ] Speaker B : So all these little dots are all of their outposts.
+[ 0:02:49.000 ---> 0:02:52.000 ] Speaker A : But what they were is they were.
+[ 0:02:52.000 ---> 0:02:55.000 ] Speaker B : An organization that was very siloed.
+[ 0:02:55.000 ---> 0:03:04.000 ] Speaker A : So they worked regionally in their regions. They did not work as a concerted whole. And what happened is there was often redundancy.
+[ 0:03:04.000 ---> 0:03:08.000 ] Speaker B : So the Singapore office would see an issue, they would start to do work.
+[ 0:03:08.000 ---> 0:03:21.000 ] Speaker A : And then a few months later, the Sao Paulo office would come up with the same issue and start to address it, not knowing that their colleagues in Singapore had already done a lot of the work. So a new leader had come into.
+[ 0:03:21.000 ---> 0:03:27.000 ] Speaker B : This particular division and said, we have to do things better. So here's what we did.
+[ 0:03:28.000 ---> 0:03:34.000 ] Speaker A : We started with a launch workshop. So this was in person in Washington DC.
+[ 0:03:34.000 ---> 0:03:36.000 ] Speaker B : There were over 50 people from around.
+[ 0:03:36.000 ---> 0:03:41.000 ] Speaker A : The globe and this was an introduction to what's? A network?
+[ 0:03:41.000 ---> 0:03:43.000 ] Speaker B : Why do we care about networks?
+[ 0:03:43.000 ---> 0:03:48.000 ] Speaker A : And one of the most striking things we did is we actually asked them.
+[ 0:03:48.000 ---> 0:03:52.000 ] Speaker B : To create in the room their network. So they got up, they stood and.
+[ 0:03:52.000 ---> 0:04:04.000 ] Speaker A : They moved themselves in space in order to depict their impression of the network. And then what we did is ask.
+[ 0:04:04.000 ---> 0:04:08.000 ] Speaker B : Them to remember that because we followed it up with a formal network analysis.
+[ 0:04:08.000 ---> 0:04:10.000 ] Speaker A : And I'm not going to get into.
+[ 0:04:10.000 ---> 0:04:12.000 ] Speaker B : Too many of the details, just let.
+[ 0:04:12.000 ---> 0:04:14.000 ] Speaker A : It be known that there was a lot of work that needed to be.
+[ 0:04:14.000 ---> 0:04:16.000 ] Speaker B : Done to make this work cross culturally.
+[ 0:04:17.000 ---> 0:04:19.000 ] Speaker A : According to the norms of different countries.
+[ 0:04:19.000 ---> 0:04:29.000 ] Speaker B : We needed to pay a lot of attention to language and so this was a joint design process. So there was a group of employees that were helping with this.
+[ 0:04:30.000 ---> 0:04:44.000 ] Speaker A : Then once we got the data in, what we didn't do, and this is something that I think actually works very well in corporations, is rather than me going and saying, okay, I'm the expert, let me tell you all.
+[ 0:04:44.000 ---> 0:04:51.000 ] Speaker B : The things about your organization based on this, ona what we did, is collective meaning making sessions where we first brought.
+[ 0:04:52.000 ---> 0:04:53.000 ] Speaker A : Leaders together and we looked at the.
+[ 0:04:53.000 ---> 0:04:58.000 ] Speaker B : Data together and we said, what does this mean? What are the implications of this? What are the actions?
+[ 0:04:58.000 ---> 0:05:04.000 ] Speaker A : We also did that at the regional level and then we did that with issues basically within their division.
+[ 0:05:04.000 ---> 0:05:08.000 ] Speaker B : They were divided into issues and then.
+[ 0:05:08.000 ---> 0:05:10.000 ] Speaker A : What we did is then applied it.
+[ 0:05:10.000 ---> 0:05:15.000 ] Speaker B : In a few different ways. So I'm going to share how we actually applied it.
+[ 0:05:16.000 ---> 0:05:18.000 ] Speaker A : So the first thing we did is.
+[ 0:05:18.000 ---> 0:05:21.000 ] Speaker B : Connected strategies to networks.
+[ 0:05:21.000 ---> 0:05:34.000 ] Speaker A : Sorry this is a little bit blurry here but we got the leadership together and looked at four aspects of networks. So networks ability to transfer knowledge, to.
+[ 0:05:34.000 ---> 0:05:37.000 ] Speaker B : Coordinate, to innovate and to change.
+[ 0:05:38.000 ---> 0:05:41.000 ] Speaker A : And we said where are you at today? How well do you do this as.
+[ 0:05:41.000 ---> 0:05:44.000 ] Speaker B : An organization and where do you need to be in the future?
+[ 0:05:45.000 ---> 0:05:52.000 ] Speaker A : And what you can see from the dots is that that third scale actually.
+[ 0:05:52.000 ---> 0:05:55.000 ] Speaker B : Moves quite a bit to the right. They needed a lot more innovation.
+[ 0:05:55.000 ---> 0:05:57.000 ] Speaker A : They also needed a lot more change.
+[ 0:05:57.000 ---> 0:06:03.000 ] Speaker B : Ability within their organization. So we did that and then we.
+[ 0:06:03.000 ---> 0:06:04.000 ] Speaker A : Said okay, if this is what we.
+[ 0:06:04.000 ---> 0:06:07.000 ] Speaker B : Need, let's look at what you've got in your organization.
+[ 0:06:08.000 ---> 0:06:16.000 ] Speaker A : And this is just one piece of the organization. I'm not showing you the whole organization because it's a lot to take in but what we saw is a lot.
+[ 0:06:16.000 ---> 0:06:18.000 ] Speaker B : Of images like this.
+[ 0:06:18.000 ---> 0:06:23.000 ] Speaker A : So you'll see we've got the routine network expertise.
+[ 0:06:23.000 ---> 0:06:25.000 ] Speaker B : How do they innovate, how do they solve problems?
+[ 0:06:25.000 ---> 0:06:28.000 ] Speaker A : And mostly we were looking at hub.
+[ 0:06:28.000 ---> 0:06:31.000 ] Speaker B : And spoke models like this one hub in the middle and then the spokes.
+[ 0:06:31.000 ---> 0:06:35.000 ] Speaker A : All around with quite a few isolates.
+[ 0:06:35.000 ---> 0:06:38.000 ] Speaker B : People who weren't connected to anyone else.
+[ 0:06:38.000 ---> 0:06:42.000 ] Speaker A : So we looked at these maps and we said, okay, is this going to.
+[ 0:06:42.000 ---> 0:06:44.000 ] Speaker B : Get us what we need?
+[ 0:06:44.000 ---> 0:06:50.000 ] Speaker A : And what they said is, and for this we used an article by Valdis.
+[ 0:06:50.000 ---> 0:06:55.000 ] Speaker B : Krebs and June Holly from 2006 where they talk about network evolution. It's been really helpful.
+[ 0:06:55.000 ---> 0:06:58.000 ] Speaker A : And it says that networks evolve from.
+[ 0:06:58.000 ---> 0:07:08.000 ] Speaker B : Scattered clusters and then all the way through core periphery. They were mostly in this second place hub and spoke with some scattered clusters.
+[ 0:07:08.000 ---> 0:07:12.000 ] Speaker A : And what's great about these kinds of.
+[ 0:07:12.000 ---> 0:07:26.000 ] Speaker B : Models is that innovation can happen within the clusters, but it's very hard to make innovation happen within the whole, very hard to make change happen with the whole. And with a hub and spoke, you're dependent, of course, on that one person.
+[ 0:07:27.000 ---> 0:07:32.000 ] Speaker A : So we said this is where you are. And if you really want innovation and.
+[ 0:07:32.000 ---> 0:07:41.000 ] Speaker B : Change, you need to go further on down this path to be more of a multi hub or in some cases a core periphery model.
+[ 0:07:41.000 ---> 0:07:42.000 ] Speaker A : So then what we did is we.
+[ 0:07:42.000 ---> 0:08:00.000 ] Speaker B : Put together plans around how to make that happen, how to increase the connections, what kind of connections needed to be increased in order to get us there. So that was the first thing we did. Oh, yeah, okay, I forgot. Had that nice little animation there. There we go. All right. Lots of information.
+[ 0:08:00.000 ---> 0:08:02.000 ] Speaker A : So that was the first thing that.
+[ 0:08:02.000 ---> 0:08:05.000 ] Speaker B : We did with them. A second thing we did with them.
+[ 0:08:05.000 ---> 0:08:08.000 ] Speaker A : Is we looked at using the maps.
+[ 0:08:08.000 ---> 0:08:10.000 ] Speaker B : To assess talent, risks and assets.
+[ 0:08:11.000 ---> 0:08:12.000 ] Speaker A : For this one, we started off with.
+[ 0:08:13.000 ---> 0:08:14.000 ] Speaker B : The concept of critical connectors.
+[ 0:08:14.000 ---> 0:08:20.000 ] Speaker A : And I'm jumping over some of these things rather quickly because I'm assuming that.
+[ 0:08:20.000 ---> 0:08:23.000 ] Speaker B : This group has some knowledge about these things.
+[ 0:08:23.000 ---> 0:08:36.000 ] Speaker A : Critical connectors come up in a lot of different places. Again, I tend to use the model that was developed by Karen Stevenson, who.
+[ 0:08:36.000 ---> 0:08:38.000 ] Speaker B : Did one of the first articles around.
+[ 0:08:38.000 ---> 0:08:41.000 ] Speaker A : That and what we know about critical.
+[ 0:08:41.000 ---> 0:08:48.000 ] Speaker B : Connectors, and that five to 15% of individuals within any network are critical connectors and that they have disproportionate influence over the whole.
+[ 0:08:49.000 ---> 0:08:51.000 ] Speaker A : And I'll be curious for those of.
+[ 0:08:51.000 ---> 0:08:54.000 ] Speaker B : You who are more current, if you.
+[ 0:08:54.000 ---> 0:08:56.000 ] Speaker A : Think that five to 15% is the.
+[ 0:08:56.000 ---> 0:09:06.000 ] Speaker B : Right number, the right span, or if you would place that differently. But in any case, what we did is we said, all right, there are critical connectors in the organization, let's look at them.
+[ 0:09:07.000 ---> 0:09:15.000 ] Speaker A : And it was important to do the ona for this. Just as an aside, a friend of mine who was in a Fortune 500.
+[ 0:09:15.000 ---> 0:09:21.000 ] Speaker B : Global information company asked her executives who they thought the top 30 influencers were in the organization.
+[ 0:09:21.000 ---> 0:09:23.000 ] Speaker A : They were like, yes, we got this.
+[ 0:09:23.000 ---> 0:09:28.000 ] Speaker B : Here you go, here's your list done. And then they did the network analysis.
+[ 0:09:28.000 ---> 0:09:30.000 ] Speaker A : And what they found is that there.
+[ 0:09:30.000 ---> 0:09:32.000 ] Speaker B : Were only five people who were on both lists.
+[ 0:09:33.000 ---> 0:09:39.000 ] Speaker A : So lesson learned here that executives really only have a line of sight into.
+[ 0:09:40.000 ---> 0:09:46.000 ] Speaker B : The people who report to them and perhaps the next level down so ona, really helps us get more information.
+[ 0:09:47.000 ---> 0:09:52.000 ] Speaker A : So what we did is we shared with leaders in this organization the critical.
+[ 0:09:52.000 ---> 0:09:54.000 ] Speaker B : Connectors of the organization as a whole.
+[ 0:09:55.000 ---> 0:10:02.000 ] Speaker A : And then the critical connectors within each of their areas. And then what we did is we.
+[ 0:10:02.000 ---> 0:10:04.000 ] Speaker B : Looked at the maps from that perspective.
+[ 0:10:04.000 ---> 0:10:07.000 ] Speaker A : So the leader in charge of the.
+[ 0:10:07.000 ---> 0:10:11.000 ] Speaker B : Europe, Middle East and Africa region, he.
+[ 0:10:11.000 ---> 0:10:13.000 ] Speaker A : Had a major connector.
+[ 0:10:13.000 ---> 0:10:18.000 ] Speaker B : I'm going to call her Tosca, who was right in the middle of the expertise network.
+[ 0:10:18.000 ---> 0:10:22.000 ] Speaker A : Everybody went to her. She knew everything there was to know about the organization.
+[ 0:10:22.000 ---> 0:10:23.000 ] Speaker B : She was quite central.
+[ 0:10:23.000 ---> 0:10:25.000 ] Speaker A : And so what we did is we.
+[ 0:10:25.000 ---> 0:10:34.000 ] Speaker B : Started to play with what if, what if something were to happen to her? And then this is what happens when you take her out of the map.
+[ 0:10:34.000 ---> 0:10:37.000 ] Speaker A : So the leader looked at this. And by the way, what was interesting.
+[ 0:10:37.000 ---> 0:10:42.000 ] Speaker B : About this also is that this leader was probably the most skeptical about organization network analysis.
+[ 0:10:42.000 ---> 0:10:43.000 ] Speaker A : He was the one, I was like.
+[ 0:10:43.000 ---> 0:10:45.000 ] Speaker B : All right, I'll go with it.
+[ 0:10:46.000 ---> 0:10:48.000 ] Speaker A : But this is where he really started.
+[ 0:10:48.000 ---> 0:11:00.000 ] Speaker B : To get interested because he saw what happened to his organization without Tosca, I mean, it wasn't a complete disaster, but more scattered clusters, more isolates.
+[ 0:11:00.000 ---> 0:11:06.000 ] Speaker A : And so what he did is he embarked on a conversation with Tosca and an effort that the two of them.
+[ 0:11:06.000 ---> 0:11:09.000 ] Speaker B : Did together to share her knowledge.
+[ 0:11:09.000 ---> 0:11:11.000 ] Speaker A : It was actually very welcome for her.
+[ 0:11:11.000 ---> 0:11:14.000 ] Speaker B : Also because she was quite overwhelmed by.
+[ 0:11:14.000 ---> 0:11:16.000 ] Speaker A : All of the people coming to her.
+[ 0:11:16.000 ---> 0:11:18.000 ] Speaker B : So it was a bit of a relief for her.
+[ 0:11:18.000 ---> 0:11:23.000 ] Speaker A : It was also a relief for the leader because about nine months after we.
+[ 0:11:23.000 ---> 0:11:28.000 ] Speaker B : Had this initial conversation, Tusca got promoted to another part of the organization.
+[ 0:11:29.000 ---> 0:11:34.000 ] Speaker A : And so had that work not been done, then they would have ended up.
+[ 0:11:34.000 ---> 0:11:38.000 ] Speaker B : With a map that looked like this, with an organization that looked like this.
+[ 0:11:38.000 ---> 0:11:40.000 ] Speaker A : And because they started to fill the.
+[ 0:11:40.000 ---> 0:11:45.000 ] Speaker B : Gaps, her loss was not as deep a loss as it might have been otherwise.
+[ 0:11:47.000 ---> 0:11:50.000 ] Speaker A : All right, I'm going to give you one more piece at Bayer and then.
+[ 0:11:50.000 ---> 0:11:54.000 ] Speaker B : We'Ll stop and we'll check in and see if you've got reactions or questions.
+[ 0:11:55.000 ---> 0:11:56.000 ] Speaker A : The last thing we did is use.
+[ 0:11:56.000 ---> 0:11:58.000 ] Speaker B : The maps to coach leaders.
+[ 0:11:59.000 ---> 0:12:04.000 ] Speaker A : And this is a different leader. She had come to the organization about.
+[ 0:12:04.000 ---> 0:12:08.000 ] Speaker B : A year and a half before we did the network analysis.
+[ 0:12:08.000 ---> 0:12:16.000 ] Speaker A : And she had come from a different part of the organization and she was pretty anxious about proving herself and establishing.
+[ 0:12:17.000 ---> 0:12:37.000 ] Speaker B : Herself as a leader. So we looked at the expertise network and we looked at where she sat in the network. And so she's right here, 106. And looking at this, we concluded, she concluded in conversation that actually she had done a pretty good job. She's not on the periphery.
+[ 0:12:37.000 ---> 0:12:42.000 ] Speaker A : She is embedded in the network. And most conveniently, she's connected to the.
+[ 0:12:42.000 ---> 0:12:44.000 ] Speaker B : Hubs in the network, which is a.
+[ 0:12:44.000 ---> 0:12:54.000 ] Speaker A : Very nice thing to do as a leader, is to work through those hubs rather than trying to manage one on.
+[ 0:12:54.000 ---> 0:12:58.000 ] Speaker B : One relationships throughout the organization. So she had positioned herself very well.
+[ 0:12:58.000 ---> 0:13:01.000 ] Speaker A : People were coming to her, and we.
+[ 0:13:01.000 ---> 0:13:10.000 ] Speaker B : Concluded, looking at this, that actually expertise was a thumbs up for her. But what her organization needed to do.
+[ 0:13:10.000 ---> 0:13:17.000 ] Speaker A : In the coming two years was actually innovate. They had to come up with new ideas.
+[ 0:13:17.000 ---> 0:14:11.000 ] Speaker B : They had to come up with some breakthrough solutions to some difficult challenges. So we then looked at the innovation network, and this is what it looked like. So much less robust than expertise, many fewer conversations happening around innovation. And here she was. So she is much more on the periphery here. And so what this led to was a conversation where she realized that she needed to stop worrying about proving herself. And what she needed to start doing was encouraging creativity in the organization. She needed to start connecting people who were thinking in new ways. She needed to bring innovation into the meetings. She needed to create a space where people could fail and have that be accepted in the organization.
+[ 0:14:13.000 ---> 0:14:17.000 ] Speaker A : So let me stop there and pause.
+[ 0:14:17.000 ---> 0:14:22.000 ] Speaker B : Let me look at all of your faces and just can see any reactions.
+[ 0:14:23.000 ---> 0:14:25.000 ] Speaker A : Any questions?
+[ 0:14:25.000 ---> 0:14:28.000 ] Speaker B : Anything coming up for you so far?
+[ 0:14:33.000 ---> 0:14:37.000 ] Speaker D : I'd love to know what data you're using for the analysis.
+[ 0:14:38.000 ---> 0:14:39.000 ] Speaker B : What data?
+[ 0:14:39.000 ---> 0:14:40.000 ] Speaker A : Yeah.
+[ 0:14:42.000 ---> 0:14:47.000 ] Speaker D : What interactions are you measuring when you do these diagrams?
+[ 0:14:47.000 ---> 0:14:48.000 ] Speaker B : Yeah, great.
+[ 0:14:48.000 ---> 0:14:51.000 ] Speaker A : Okay. Yeah. So a number of different ones, and.
+[ 0:14:51.000 ---> 0:14:54.000 ] Speaker B : This was all collected through the online survey.
+[ 0:14:54.000 ---> 0:14:56.000 ] Speaker A : So we do one, which is the.
+[ 0:14:56.000 ---> 0:14:57.000 ] Speaker B : Resting pulse of the organization.
+[ 0:14:58.000 ---> 0:14:59.000 ] Speaker A : Who do you work with in order.
+[ 0:14:59.000 ---> 0:15:00.000 ] Speaker B : To get your work done?
+[ 0:15:00.000 ---> 0:15:05.000 ] Speaker A : You've also seen the expertise network, so who do you go to when you.
+[ 0:15:05.000 ---> 0:15:10.000 ] Speaker B : Need expert information related to your job? You've also seen the innovation network, so.
+[ 0:15:10.000 ---> 0:15:19.000 ] Speaker A : Who do you go to when you'd want to talk about novel creative ideas? In addition to that, we also did.
+[ 0:15:19.000 ---> 0:15:21.000 ] Speaker B : A problem solving network of who do.
+[ 0:15:21.000 ---> 0:15:23.000 ] Speaker A : You go to when you want to.
+[ 0:15:23.000 ---> 0:15:29.000 ] Speaker B : Improve things in the organization? And then there's decision making.
+[ 0:15:30.000 ---> 0:15:31.000 ] Speaker A : Who do you go to when you.
+[ 0:15:31.000 ---> 0:15:33.000 ] Speaker B : Need a non routine, quick decision made?
+[ 0:15:34.000 ---> 0:15:45.000 ] Speaker A : What was interesting is that we normally also do a social network, and that for some of the cultures, some of the places that we were going to.
+[ 0:15:45.000 ---> 0:15:48.000 ] Speaker B : Be launching this, that question felt too.
+[ 0:15:48.000 ---> 0:15:54.000 ] Speaker A : Invasive and too much of a violation of work life separation.
+[ 0:15:54.000 ---> 0:15:56.000 ] Speaker B : So we did not do that question.
+[ 0:15:59.000 ---> 0:16:01.000 ] Speaker A : Does that answer the question?
+[ 0:16:01.000 ---> 0:16:08.000 ] Speaker B : Andrea? Good. All right. Thumbs up. Okay. Anything else?
+[ 0:16:09.000 ---> 0:16:10.000 ] Speaker A : I have a question.
+[ 0:16:10.000 ---> 0:16:20.000 ] Speaker E : You mentioned at the very beginning that you do an in womb exercise about the SNA, about how the people are related to each other. Can you talk more about that.
+[ 0:16:21.000 ---> 0:16:21.000 ] Speaker B : Yes.
+[ 0:16:21.000 ---> 0:16:24.000 ] Speaker A : So that was actually a ton of fun.
+[ 0:16:24.000 ---> 0:16:27.000 ] Speaker B : I love doing this with groups because it makes it real.
+[ 0:16:29.000 ---> 0:16:32.000 ] Speaker A : And this was probably about eight years ago, so I'm not going to remember.
+[ 0:16:32.000 ---> 0:16:42.000 ] Speaker B : The exact question, but what we asked them to do is to arrange themselves in the room in relation to the people they work with most frequently.
+[ 0:16:44.000 ---> 0:16:47.000 ] Speaker A : So what of course they did is.
+[ 0:16:47.000 ---> 0:16:50.000 ] Speaker B : They clustered themselves by region.
+[ 0:16:51.000 ---> 0:16:57.000 ] Speaker A : And then I believe we also asked them to arrange themselves according to how.
+[ 0:16:57.000 ---> 0:17:04.000 ] Speaker B : Central or how peripheral they felt to the divisional network, to the division network.
+[ 0:17:04.000 ---> 0:17:16.000 ] Speaker A : And that was very interesting because there were certain people who put themselves at the middle who people looked at that and said, no, actually, I don't think so. And then there are people who put.
+[ 0:17:16.000 ---> 0:17:23.000 ] Speaker B : Themselves on the periphery who actually turned out to be critical connectors and very central in the network.
+[ 0:17:23.000 ---> 0:17:26.000 ] Speaker A : So it was an interesting moment of.
+[ 0:17:26.000 ---> 0:17:30.000 ] Speaker B : Helping folks realize that they didn't have.
+[ 0:17:30.000 ---> 0:17:32.000 ] Speaker A : The full picture, that they needed the.
+[ 0:17:32.000 ---> 0:17:38.000 ] Speaker B : Maps in order to truly understand, get a deeper understanding of the organization.
+[ 0:17:40.000 ---> 0:18:42.000 ] Speaker F : Okay, I have a follow up question related to that. In that scenario when you asked people to arrange themselves, did you see much shifting occur? In other words, did you see people get up and physically walk around and reorganize themselves? The reason why I'm asking that question is because I haven't facilitated an in person meeting in a very long time. But what I used to love to observe is watching people walk in and sort themselves into their groups at the beginnings of these types of workshops or meetings. Because it seemed to me like people just tended to gravitate towards those folks that they worked most closely with, that they trusted, especially when they were walking into a new scenario. So I'm just wondering how much of the sort of self sorting was already pre baked prior to that exercise occurring.
+[ 0:18:42.000 ---> 0:18:49.000 ] Speaker A : Yeah, it's interesting. I think you're right on in that people do often sit with the people.
+[ 0:18:49.000 ---> 0:18:53.000 ] Speaker B : That they're most comfortable with, that they have close relationships with.
+[ 0:18:53.000 ---> 0:18:58.000 ] Speaker A : And this group in some ways was a little different in that it was.
+[ 0:18:58.000 ---> 0:19:00.000 ] Speaker B : The first time in a long time.
+[ 0:19:00.000 ---> 0:19:04.000 ] Speaker A : That they had been together with people.
+[ 0:19:04.000 ---> 0:19:05.000 ] Speaker B : From around the world.
+[ 0:19:05.000 ---> 0:19:07.000 ] Speaker A : So they got together regionally much more often.
+[ 0:19:07.000 ---> 0:19:09.000 ] Speaker B : So with this group there was a.
+[ 0:19:09.000 ---> 0:19:14.000 ] Speaker A : Little bit more mixing than you would normally expect because they finally had a.
+[ 0:19:14.000 ---> 0:19:21.000 ] Speaker B : Chance to sit down next to their colleague in Brussels who they hadn't seen in five years.
+[ 0:19:21.000 ---> 0:19:26.000 ] Speaker A : But that said, when it came time to do the exercise, they actually stood up and moved to a different part of the room.
+[ 0:19:26.000 ---> 0:19:29.000 ] Speaker B : We had a room where there were no tables.
+[ 0:19:29.000 ---> 0:19:31.000 ] Speaker A : And the piece that I always find.
+[ 0:19:31.000 ---> 0:19:39.000 ] Speaker B : Interesting is that it takes a while for the network to settle because one person will move and then all the.
+[ 0:19:39.000 ---> 0:19:40.000 ] Speaker A : Folks who feel like they're connected to.
+[ 0:19:40.000 ---> 0:19:44.000 ] Speaker B : That person will move in relation to that person and then each of those.
+[ 0:19:44.000 ---> 0:19:54.000 ] Speaker A : People will have their connectees following them. So it takes a little bit for people to get to a place where they can settle and feel like, okay.
+[ 0:19:54.000 ---> 0:19:57.000 ] Speaker B : This is a good representation of the network.
+[ 0:19:58.000 ---> 0:20:03.000 ] Speaker A : But yeah, it's a good question because you can see some of the network.
+[ 0:20:03.000 ---> 0:20:05.000 ] Speaker B : Just in how people naturally sit.
+[ 0:20:10.000 ---> 0:20:53.000 ] Speaker C : Something that I'm very curious about is I usually see case studies with very large organizations, like I imagine in this case, and please correct me if I'm wrong, but each of the person in the room was some sort of head of department or at least managing their own team as well. So I'm kind of curious, what do you think is the scale at which this becomes very impactful? Or there are some studies, et cetera, that even within a small team you can start to see some patterns. But feels to me that when we're talking of teams, of teams, the impact of it just acquires a whole other dimension. And I'm curious about your thoughts in that regard.
+[ 0:20:55.000 ---> 0:21:01.000 ] Speaker A : Okay, yeah, that's interesting. So on the team level, what I.
+[ 0:21:01.000 ---> 0:21:06.000 ] Speaker B : Had always learned is that 13 was the cut off, is that we don't do this with fewer than 13 people.
+[ 0:21:06.000 ---> 0:21:14.000 ] Speaker A : Because the math doesn't work in terms of the teams of teams. And just to be very clear about.
+[ 0:21:14.000 ---> 0:21:17.000 ] Speaker B : My limitations is that I don't work.
+[ 0:21:18.000 ---> 0:21:25.000 ] Speaker A : With the 20,000 node networks. I work much more in the 100.
+[ 0:21:25.000 ---> 0:21:28.000 ] Speaker B : To thousand node networks.
+[ 0:21:28.000 ---> 0:21:32.000 ] Speaker A : So it's a little bit different and a little bit easier for people to.
+[ 0:21:32.000 ---> 0:21:43.000 ] Speaker B : Wrap their arms around. And could you say more about Daniel, about your question? Because I'm not sure I quite understand it fully.
+[ 0:21:44.000 ---> 0:22:17.000 ] Speaker C : Well, I mean, it's not a well defined question, but I'm thinking when we're talking about innovation change the level of lack of communication or communication kind of aggregates because each person is not a person, they're a whole team. So two teams not talking with one another is very different than two people. So I'm kind of curious, maybe more concretely at the smaller scales, what sort of insights have you found that teams found valuable?
+[ 0:22:18.000 ---> 0:22:21.000 ] Speaker A : Yeah, okay, so the piece is that.
+[ 0:22:21.000 ---> 0:22:25.000 ] Speaker B : We did get all of the data for the whole organization, so we didn't.
+[ 0:22:25.000 ---> 0:22:30.000 ] Speaker A : Just get the leaders, we got the teams that they were managing.
+[ 0:22:30.000 ---> 0:22:35.000 ] Speaker B : So we had all of that and that actually became very helpful for them.
+[ 0:22:35.000 ---> 0:22:41.000 ] Speaker A : So, for example, we did a session for the South American group where each.
+[ 0:22:41.000 ---> 0:22:50.000 ] Speaker B : Of the leaders in South America got to see, first of all, the South American network, but also the networks for their specific teams in their specific countries.
+[ 0:22:50.000 ---> 0:22:56.000 ] Speaker A : And I think as a leadership tool and this is the piece that I.
+[ 0:22:56.000 ---> 0:23:01.000 ] Speaker B : Wish more people would use it for.
+[ 0:23:01.000 ---> 0:23:04.000 ] Speaker A : A leadership development because the leaders were.
+[ 0:23:04.000 ---> 0:23:19.000 ] Speaker B : Really excited to have this concrete data about how their organizations were working around, information was flowing around, how things were getting done, around where the gaps were in their organizations.
+[ 0:23:20.000 ---> 0:23:30.000 ] Speaker A : And the other piece that I found really exciting in terms of the leadership coaching aspect is that it allowed conversations.
+[ 0:23:30.000 ---> 0:23:32.000 ] Speaker B : That are sometimes hard to have.
+[ 0:23:32.000 ---> 0:23:36.000 ] Speaker A : So this wasn't around you are a.
+[ 0:23:36.000 ---> 0:23:42.000 ] Speaker B : Bad leader or you're falling down in this way. It's let's look at the data together.
+[ 0:23:42.000 ---> 0:23:43.000 ] Speaker A : And look at what kind of leadership.
+[ 0:23:43.000 ---> 0:23:49.000 ] Speaker B : Your network needs from you, what parts of this network need your intervention.
+[ 0:23:50.000 ---> 0:23:51.000 ] Speaker A : So it was a way to give.
+[ 0:23:51.000 ---> 0:24:00.000 ] Speaker B : People a little bit of distance and also think about how they could shift in relation to their networks.
+[ 0:24:00.000 ---> 0:24:02.000 ] Speaker A : So I really like using it at.
+[ 0:24:02.000 ---> 0:24:05.000 ] Speaker B : A small scale as well as a large scale.
+[ 0:24:07.000 ---> 0:24:17.000 ] Speaker C : Thank you very much. Sorry, quick thing. Just any particular resources that you would recommend related to the leadership piece?
+[ 0:24:20.000 ---> 0:24:22.000 ] Speaker A : Yes, I can send those.
+[ 0:24:26.000 ---> 0:24:34.000 ] Speaker C : Please. If you wouldn't mind. I'll make sure to distribute them to the others as well. Thank you very much.
+[ 0:24:34.000 ---> 0:24:35.000 ] Speaker B : Great.
+[ 0:24:35.000 ---> 0:24:40.000 ] Speaker A : My pleasure. Yeah. And the other things that I found very helpful is the Valdez and Holly.
+[ 0:24:40.000 ---> 0:24:48.000 ] Speaker B : Article from 2006, which does network evolution organizations tend to get that it helps.
+[ 0:24:48.000 ---> 0:24:56.000 ] Speaker A : Them make sense of these maps. And then I also really like Ron Burt did a study on network learning.
+[ 0:24:56.000 ---> 0:24:59.000 ] Speaker B : For leadership, and he's got some very.
+[ 0:24:59.000 ---> 0:25:07.000 ] Speaker A : Concrete data about the difference between a group of people who learned about networks and started to think in network ways.
+[ 0:25:07.000 ---> 0:25:15.000 ] Speaker B : Versus a group of leaders that didn't. And the group of leaders that did learn had tremendous gains in terms of.
+[ 0:25:15.000 ---> 0:25:19.000 ] Speaker A : Promotions, in terms of performance evaluation, whereas.
+[ 0:25:19.000 ---> 0:25:22.000 ] Speaker B : The other group was more stable.
+[ 0:25:22.000 ---> 0:25:26.000 ] Speaker A : So it's a nice concrete example of.
+[ 0:25:26.000 ---> 0:25:34.000 ] Speaker B : The good that learning about networks can do. So let me show you probably just one more example, given our time.
+[ 0:25:35.000 ---> 0:25:42.000 ] Speaker A : This is the National Braille Press. So national Braille Press is an American organization.
+[ 0:25:42.000 ---> 0:25:49.000 ] Speaker B : They're based in Boston. And what they do is they make books in braille, mostly for children.
+[ 0:25:50.000 ---> 0:25:54.000 ] Speaker A : And when I connected with them, they had a new CEO.
+[ 0:25:54.000 ---> 0:25:59.000 ] Speaker B : Their long term CEO had been in place for 31 years. A new person came on, and when.
+[ 0:25:59.000 ---> 0:26:02.000 ] Speaker A : He came in, he found a lot of challenges.
+[ 0:26:02.000 ---> 0:26:05.000 ] Speaker B : So people weren't collaborating in the organization.
+[ 0:26:05.000 ---> 0:26:11.000 ] Speaker A : There were missed opportunities, so fundraising opportunities.
+[ 0:26:11.000 ---> 0:26:17.000 ] Speaker B : That just fell through the cracks. There was a mismatch between people and jobs. So he did a lot of things.
+[ 0:26:17.000 ---> 0:26:21.000 ] Speaker A : In his first eight months on the job. He restructured the organization.
+[ 0:26:21.000 ---> 0:26:27.000 ] Speaker B : He redesigned departments. Some employees were asked to leave, others were promoted.
+[ 0:26:27.000 ---> 0:26:30.000 ] Speaker A : And what he wanted to know is.
+[ 0:26:30.000 ---> 0:26:36.000 ] Speaker B : Is it working, all these things I'm doing? Is this having the impact I want it to have?
+[ 0:26:37.000 ---> 0:26:43.000 ] Speaker A : So this is a different kind of network analysis that we did. And Andrea, here you'll see the questions.
+[ 0:26:43.000 ---> 0:26:45.000 ] Speaker B : So you'd ask before about the questions.
+[ 0:26:46.000 ---> 0:26:55.000 ] Speaker A : The first thing we did is look at the organization as a whole and in this visualization the different departments are separated.
+[ 0:26:55.000 ---> 0:27:06.000 ] Speaker B : So starting at 12:00, we have the Adam and Department, which included the executive director, development, educational, sales, production, publication, services and systems.
+[ 0:27:07.000 ---> 0:27:10.000 ] Speaker A : And so the Resting Pulse sometimes what.
+[ 0:27:10.000 ---> 0:27:14.000 ] Speaker B : We call this basic work network showed that things were happening.
+[ 0:27:14.000 ---> 0:27:17.000 ] Speaker A : So this is a healthy, alive organization.
+[ 0:27:18.000 ---> 0:27:38.000 ] Speaker B : With a lot of interactions. However, then we started to drill down and when we looked at the expertise network, what became clear is that people in the organization, strangely enough, were doing more exchange across divisions than within divisions. Now this is unusual.
+[ 0:27:38.000 ---> 0:27:41.000 ] Speaker A : Usually we see the flip side and.
+[ 0:27:41.000 ---> 0:27:49.000 ] Speaker B : That people have usually quite strong relationships within their divisions, less so between divisions.
+[ 0:27:49.000 ---> 0:27:51.000 ] Speaker A : So in some ways this was positive.
+[ 0:27:52.000 ---> 0:27:57.000 ] Speaker B : In that we are getting some cross functional expertise flow. But what it also spoke to is.
+[ 0:27:57.000 ---> 0:28:05.000 ] Speaker A : That the redesign hadn't quite gelled yet. People weren't yet really connecting with their.
+[ 0:28:05.000 ---> 0:28:09.000 ] Speaker B : Colleagues in their new divisions or their new departments.
+[ 0:28:10.000 ---> 0:28:12.000 ] Speaker A : So there was an item that needed.
+[ 0:28:12.000 ---> 0:28:15.000 ] Speaker B : To be done there to build the teams internally.
+[ 0:28:16.000 ---> 0:28:19.000 ] Speaker A : Another thing we looked at, at this one, we were able to look at.
+[ 0:28:20.000 ---> 0:28:27.000 ] Speaker B : The social network and there was not a lot of activity within most departments.
+[ 0:28:27.000 ---> 0:28:28.000 ] Speaker A : And it tends to be the same.
+[ 0:28:28.000 ---> 0:28:34.000 ] Speaker B : People connecting over and over again. And by the way, these are all the confirmed connections.
+[ 0:28:34.000 ---> 0:28:46.000 ] Speaker A : And this was worrying because at least when I look at the social network what I think about is does this organization have the shock absorbers it needs.
+[ 0:28:46.000 ---> 0:28:55.000 ] Speaker B : To manage stress and manage change? Because that's what the social network does. When there's some sort of shock to the system, people go to folks they feel comfortable with.
+[ 0:28:55.000 ---> 0:28:58.000 ] Speaker A : And what the conclusion was here from.
+[ 0:28:59.000 ---> 0:29:05.000 ] Speaker B : Conversations with leaders, from others in the organization is that the people were in shock.
+[ 0:29:06.000 ---> 0:29:10.000 ] Speaker A : That having people leave be dismissed after.
+[ 0:29:10.000 ---> 0:29:12.000 ] Speaker B : That not happening for 30 years was.
+[ 0:29:12.000 ---> 0:29:21.000 ] Speaker A : A challenge, the redesign was a challenge and people had really retreated back into themselves.
+[ 0:29:22.000 ---> 0:29:28.000 ] Speaker B : So one of the learnings for the leadership team is that they needed to.
+[ 0:29:28.000 ---> 0:29:30.000 ] Speaker A : Have some time to relax a little.
+[ 0:29:30.000 ---> 0:29:43.000 ] Speaker B : Bit together, to encourage people to connect. They needed to have some lunches, some dinners, they needed to have some fun. This was an organization where people were not having very much fun and they.
+[ 0:29:43.000 ---> 0:29:45.000 ] Speaker A : Needed that not just for the sake.
+[ 0:29:45.000 ---> 0:29:51.000 ] Speaker B : Of fun itself, but because there was a risk in this organization and that.
+[ 0:29:51.000 ---> 0:29:53.000 ] Speaker A : It would not have what it needed.
+[ 0:29:53.000 ---> 0:30:12.000 ] Speaker B : In times of stress if those relationships did not already exist. So that's a little bit on National Bread Press and actually looking at the time, we might have time to do one more. Let me give you have what do you think?
+[ 0:30:12.000 ---> 0:30:16.000 ] Speaker A : Daniel, I'm looking at you. Time for one more.
+[ 0:30:16.000 ---> 0:30:18.000 ] Speaker B : Would you rather pause and talk?
+[ 0:30:19.000 ---> 0:30:20.000 ] Speaker E : Yeah, let me see.
+[ 0:30:20.000 ---> 0:30:34.000 ] Speaker C : Unless someone has a burning question. I think it would be fantastic to hear another one and yeah, if anyone has a burning question, please feel free to raise your hand. It's on the reactions button at the bottom. You can just go like this.
+[ 0:30:35.000 ---> 0:30:36.000 ] Speaker B : Yeah.
+[ 0:30:37.000 ---> 0:30:39.000 ] Speaker A : Just going to give a moment to.
+[ 0:30:39.000 ---> 0:30:49.000 ] Speaker B : See if anybody has anything. Okay, great. So a question for you.
+[ 0:30:49.000 ---> 0:31:04.000 ] Speaker A : You have two options. The first option is looking at using networks in a community, a town in Texas, and the other one is using networks in a biopharmaceutical women's network.
+[ 0:31:04.000 ---> 0:31:17.000 ] Speaker B : So who would like to hear about the town? I see some hands. All right. Who would like to hear about the biopharma? Okay. All right. Biopharma it is.
+[ 0:31:17.000 ---> 0:31:21.000 ] Speaker A : So hold on a moment. I'm going to flip really quickly through.
+[ 0:31:21.000 ---> 0:31:33.000 ] Speaker B : A bunch of slides, so don't get overwhelmed here. Okay, here we go. This is the Women's Success Network.
+[ 0:31:33.000 ---> 0:31:35.000 ] Speaker A : So this is a pseudonym I have.
+[ 0:31:35.000 ---> 0:31:40.000 ] Speaker B : Published about these folks. There's an article on strategy and business that I can share with you.
+[ 0:31:40.000 ---> 0:31:42.000 ] Speaker A : But they did not want the name.
+[ 0:31:42.000 ---> 0:31:44.000 ] Speaker B : Of their organization shared.
+[ 0:31:44.000 ---> 0:32:04.000 ] Speaker A : But this was a biopharmaceutical company, and they had an internal employee resource group, and they had a few of them. They had one for LGBTQ staff, they had one for people of color. They had a special one for Latino, Latina veterans.
+[ 0:32:04.000 ---> 0:32:06.000 ] Speaker B : So they had a number of different ones.
+[ 0:32:07.000 ---> 0:32:12.000 ] Speaker A : And this was the Women's Success network. And what they were interested in, the.
+[ 0:32:12.000 ---> 0:32:15.000 ] Speaker B : Women's Success Network, is helping women grow.
+[ 0:32:15.000 ---> 0:32:21.000 ] Speaker A : And become promoted in the company. So what they noticed is that there.
+[ 0:32:21.000 ---> 0:32:23.000 ] Speaker B : Was pretty much a 50 50 split.
+[ 0:32:23.000 ---> 0:32:27.000 ] Speaker A : Of women and men at lower levels in the organization. But the further up you got in.
+[ 0:32:27.000 ---> 0:32:38.000 ] Speaker B : The organization, the fewer women were in positions of leadership. So this network was designed to do that and designed to give women support in the hard sciences.
+[ 0:32:39.000 ---> 0:32:43.000 ] Speaker A : The company was very focused on metrics, and so they needed to provide some.
+[ 0:32:43.000 ---> 0:32:50.000 ] Speaker B : Concrete evidence that what they were doing was successful. So what was lovely about this particular.
+[ 0:32:50.000 ---> 0:32:55.000 ] Speaker A : Project is that this was a two year project. So we got a snapshot in 2013.
+[ 0:32:55.000 ---> 0:32:58.000 ] Speaker B : And a snapshot in 2014.
+[ 0:32:58.000 ---> 0:33:00.000 ] Speaker A : So this is what their network looked.
+[ 0:33:00.000 ---> 0:33:04.000 ] Speaker B : Like in 2013, and this is what it looked like in 2014.
+[ 0:33:04.000 ---> 0:33:11.000 ] Speaker A : So what the first thing they were able to say is, we had tremendous growth, which was helpful. That was part of the message that.
+[ 0:33:11.000 ---> 0:33:22.000 ] Speaker B : They wanted to send. But then we started to get a little bit deeper. So you can see more of the growth from 343 people to 634 people.
+[ 0:33:24.000 ---> 0:33:25.000 ] Speaker A : And then the other thing that we.
+[ 0:33:25.000 ---> 0:33:36.000 ] Speaker B : Looked at was the density. So in 2013, smaller network, fewer possible connections, but in 2014, more possible connections.
+[ 0:33:38.000 ---> 0:33:43.000 ] Speaker A : Then what we looked at is expertise, because one of the things they were very interested in is they wanted to.
+[ 0:33:43.000 ---> 0:33:48.000 ] Speaker B : Help women form connections within the organization.
+[ 0:33:48.000 ---> 0:33:51.000 ] Speaker A : And they noticed that the men tended.
+[ 0:33:51.000 ---> 0:33:53.000 ] Speaker B : To have a network where they would.
+[ 0:33:53.000 ---> 0:34:06.000 ] Speaker A : Share information with each other. They could go to. Each other and they wanted to see if women were exchanging expertise in the same way. And during the twelve months prior to.
+[ 0:34:06.000 ---> 0:34:14.000 ] Speaker B : The second ona, they had a lot of activities designed to encourage expertise sharing within the network.
+[ 0:34:14.000 ---> 0:34:17.000 ] Speaker A : And what they saw is that there.
+[ 0:34:17.000 ---> 0:34:36.000 ] Speaker B : Was a lot more growth within the network. Twice as many were sought for expertise in 2014 as 2013. And there were more average connections per person. So it went from 2.68 connections in 2013 to 4.22 connections in 2014.
+[ 0:34:37.000 ---> 0:34:39.000 ] Speaker A : The other thing that they were very.
+[ 0:34:39.000 ---> 0:34:42.000 ] Speaker B : Interested in is mentoring.
+[ 0:34:43.000 ---> 0:34:45.000 ] Speaker A : Because again, what they wanted is they.
+[ 0:34:45.000 ---> 0:34:50.000 ] Speaker B : Wanted women to be shepherded up through the levels in the organization.
+[ 0:34:50.000 ---> 0:34:52.000 ] Speaker A : So we were able to see that.
+[ 0:34:52.000 ---> 0:35:02.000 ] Speaker B : In 2013 there were 43 people in the network who were seeking mentoring. In 2014 there were 76.
+[ 0:35:03.000 ---> 0:35:05.000 ] Speaker A : The group of people who were being.
+[ 0:35:05.000 ---> 0:35:14.000 ] Speaker B : Sought after went from 68 to 173. And this was actually very important for the organization because what they had talked.
+[ 0:35:14.000 ---> 0:35:16.000 ] Speaker A : About is that the same small group.
+[ 0:35:16.000 ---> 0:35:20.000 ] Speaker B : Of women tended to be overburdened with mentoring.
+[ 0:35:20.000 ---> 0:35:22.000 ] Speaker A : And so what they needed is they.
+[ 0:35:22.000 ---> 0:35:28.000 ] Speaker B : Needed a broader group of women who were willing to serve as mentors.
+[ 0:35:29.000 ---> 0:35:31.000 ] Speaker A : And that is what they found is.
+[ 0:35:31.000 ---> 0:35:34.000 ] Speaker B : That there were more people available for mentoring.
+[ 0:35:34.000 ---> 0:35:36.000 ] Speaker A : We looked at the average degrees in.
+[ 0:35:36.000 ---> 0:35:47.000 ] Speaker B : The mentoring network and those changed as well between 2013 and 2014. And then finally, how does mentoring work?
+[ 0:35:47.000 ---> 0:35:53.000 ] Speaker A : We noticed that newbies, so people who had been in the organization for zero.
+[ 0:35:53.000 ---> 0:36:01.000 ] Speaker B : To three years were more likely to seek mentoring relationships with experienced staffers in 2014 and 2013. So this is the mentoring network.
+[ 0:36:01.000 ---> 0:36:06.000 ] Speaker A : The green nodes are newcomers to the organization and the blue nodes have been.
+[ 0:36:06.000 ---> 0:36:08.000 ] Speaker B : There four plus years.
+[ 0:36:08.000 ---> 0:36:12.000 ] Speaker A : There may be a few grays in there, those are people who did not.
+[ 0:36:12.000 ---> 0:36:15.000 ] Speaker B : Fill out that particular demographic information.
+[ 0:36:16.000 ---> 0:36:21.000 ] Speaker A : And so what we saw in 2014 is there was a much more mix.
+[ 0:36:21.000 ---> 0:36:26.000 ] Speaker B : Of blues and greens than there were in previous years.
+[ 0:36:27.000 ---> 0:36:31.000 ] Speaker A : And then the last thing we were able to do through this network is.
+[ 0:36:31.000 ---> 0:36:39.000 ] Speaker B : Analysis, is to look at who was mentoring whom. And there were some interesting pieces here.
+[ 0:36:39.000 ---> 0:36:42.000 ] Speaker A : And how their levels worked. One to five were more entry level.
+[ 0:36:42.000 ---> 0:36:45.000 ] Speaker B : The 13 plus were executive level.
+[ 0:36:46.000 ---> 0:36:50.000 ] Speaker A : And interestingly, the people who were in.
+[ 0:36:50.000 ---> 0:36:54.000 ] Speaker B : Their early career, not newbies, but still.
+[ 0:36:55.000 ---> 0:36:56.000 ] Speaker A : Fairly early on in their careers in.
+[ 0:36:56.000 ---> 0:36:58.000 ] Speaker B : Level six or nine, were mostly getting.
+[ 0:36:59.000 ---> 0:37:08.000 ] Speaker A : Mentoring within their level. And this was flagged as a major issue. And that for these folks to get.
+[ 0:37:08.000 ---> 0:37:13.000 ] Speaker B : To levels ten through twelve, they needed more senior mentors in the organization.
+[ 0:37:14.000 ---> 0:37:21.000 ] Speaker A : And so this network put together programs designed to match people in six through.
+[ 0:37:21.000 ---> 0:37:23.000 ] Speaker B : Nine with levels ten through twelve.
+[ 0:37:24.000 ---> 0:37:25.000 ] Speaker A : And you can see some of the.
+[ 0:37:25.000 ---> 0:37:28.000 ] Speaker B : Other dynamics that were happening there as well.
+[ 0:37:29.000 ---> 0:37:31.000 ] Speaker A : But this was a really nice match.
+[ 0:37:31.000 ---> 0:37:36.000 ] Speaker B : Overall for this organization because their day to day business, they were looking at.
+[ 0:37:36.000 ---> 0:37:40.000 ] Speaker A : Numbers they're looking at science. And so for them to say we're.
+[ 0:37:41.000 ---> 0:37:47.000 ] Speaker B : Having good experiences in our women's support network wasn't enough. They needed some hard concrete data to.
+[ 0:37:47.000 ---> 0:37:50.000 ] Speaker A : Make the case that this group was.
+[ 0:37:50.000 ---> 0:37:57.000 ] Speaker B : Working well and was generating results. So I think that's what I've got.
+[ 0:37:57.000 ---> 0:37:58.000 ] Speaker A : So I'm going to go ahead and.
+[ 0:37:58.000 ---> 0:38:07.000 ] Speaker B : Stop the share now and I'm curious if folks have questions and what I'm really curious about is how this relates to your work. I know that you all do all.
+[ 0:38:08.000 ---> 0:38:17.000 ] Speaker A : Sorts of different things and I know this may not be a direct match, but I'm curious if this gives you any ideas or thoughts about how you.
+[ 0:38:17.000 ---> 0:38:20.000 ] Speaker B : Might apply some of these ideas in the work you do.
+[ 0:38:28.000 ---> 0:38:53.000 ] Speaker E : Thank you, Maya, for this talk. I definitely have one idea I'm going to bring up later on to my team. Might mention it here also, if there's time. I was wondering at the beginning you talked about critical connectors and we all view it from different lenses and using different metrics for it. Could you speak a bit more about how do you define it and measure it?
+[ 0:38:53.000 ---> 0:39:00.000 ] Speaker A : Yeah, so I'm using Karen Stevenson's work and I can send you the article.
+[ 0:39:00.000 ---> 0:39:01.000 ] Speaker B : With the math in it.
+[ 0:39:01.000 ---> 0:39:34.000 ] Speaker A : And she has the Hub gatekeeper pulse taker model. So it's basically the Hubs are centrality and then she is looking at between this and closeness. And so those are relatively straightforward calculations and I work with those. I mean, there's a lot of others, the Bridging and the Brokering is good language, but I like the Hugs gatekeepers.
+[ 0:39:34.000 ---> 0:39:47.000 ] Speaker B : And pulse takers because people tend to intuitively understand it in organizations. So I've mostly stuck with that and occasionally bringing in a few others. So I'll pass the article along so you can see the math.
+[ 0:39:49.000 ---> 0:39:51.000 ] Speaker A : And what I will tell you.
+[ 0:39:53.000 ---> 0:39:53.000 ] Speaker B : Is.
+[ 0:39:53.000 ---> 0:39:56.000 ] Speaker A : That I let mostly the software do.
+[ 0:39:56.000 ---> 0:39:58.000 ] Speaker B : The math for me. I'm not a math person.
+[ 0:39:58.000 ---> 0:40:04.000 ] Speaker A : So if you want to geek out on the equations, then there's someone else.
+[ 0:40:04.000 ---> 0:40:14.000 ] Speaker B : Out there for you to geek out with is what we be. Hey, go ahead. I see a hand raised.
+[ 0:40:17.000 ---> 0:40:47.000 ] Speaker G : Yeah. Hi. Thank you for this presentation, Maya. So I want to talk about the previous case study you mentioned the need for fun, to introduce fun. And I have three questions. First, have you seen this need in other instances as well? Second, why was fun important? And third, how did you introduce fun? I mean, what was the solution to the problem?
+[ 0:40:47.000 ---> 0:40:53.000 ] Speaker B : Yeah, good questions, good questions. So the reason for fun is that.
+[ 0:40:53.000 ---> 0:41:04.000 ] Speaker A : This organization, the people in the organization, had really turned into themselves. They had become isolated. They had gotten to a place where they were coming in, they were doing.
+[ 0:41:04.000 ---> 0:41:06.000 ] Speaker B : Their jobs, they were going home.
+[ 0:41:07.000 ---> 0:41:10.000 ] Speaker A : And there needed to be a little.
+[ 0:41:10.000 ---> 0:41:16.000 ] Speaker B : Bit more ease so that they could feel comfortable talking about tough issues, so.
+[ 0:41:16.000 ---> 0:41:23.000 ] Speaker A : That they could express their opinions. They could say sometimes the controversial things that might need to be said.
+[ 0:41:24.000 ---> 0:41:30.000 ] Speaker B : And for them to feel more comfortable doing that, they needed to have some more relationships with each other.
+[ 0:41:30.000 ---> 0:41:35.000 ] Speaker A : And we got to fun partially because.
+[ 0:41:35.000 ---> 0:41:38.000 ] Speaker B : This organization used to have a culture.
+[ 0:41:38.000 ---> 0:41:41.000 ] Speaker A : Of fun, and in the transition from.
+[ 0:41:41.000 ---> 0:41:45.000 ] Speaker B : The old CEO to the new CEO, that fun had been lost.
+[ 0:41:45.000 ---> 0:41:48.000 ] Speaker A : So it was about awakening what had.
+[ 0:41:48.000 ---> 0:41:54.000 ] Speaker B : Been in the organization but had been neglected. So it was something they wanted.
+[ 0:41:55.000 ---> 0:42:15.000 ] Speaker A : And I actually was not involved in creating the fun. I think they did that. But I think what they started with is they started with lunches and they started with gatherings so that they would treat people and have some sort of fun activity to do together to encourage.
+[ 0:42:15.000 ---> 0:42:16.000 ] Speaker B : People to remember that work just didn't.
+[ 0:42:16.000 ---> 0:42:18.000 ] Speaker A : Need to be a slog all the.
+[ 0:42:18.000 ---> 0:42:22.000 ] Speaker B : Time, that they could enjoy each other's presence.
+[ 0:42:24.000 ---> 0:42:29.000 ] Speaker G : Have you seen that this is a problem with other organizations as well?
+[ 0:42:29.000 ---> 0:42:30.000 ] Speaker B : Yes.
+[ 0:42:30.000 ---> 0:42:49.000 ] Speaker A : Particularly organizations that are post some sort of intense or traumatic event. So an intense reorganization, for example, can sometimes do it. Some scandals in the organization, toxicity in.
+[ 0:42:50.000 ---> 0:42:54.000 ] Speaker B : The organization, where there's a toxic environment, a toxic leader.
+[ 0:42:54.000 ---> 0:42:56.000 ] Speaker A : In those cases, yes.
+[ 0:42:56.000 ---> 0:42:59.000 ] Speaker B : The social network can get very sparse.
+[ 0:42:59.000 ---> 0:43:10.000 ] Speaker A : And that is always worrisome because we're primates, we're social creatures, and if we don't have social connections, then it does.
+[ 0:43:10.000 ---> 0:43:15.000 ] Speaker B : Start to affect performance and the quality of the work.
+[ 0:43:16.000 ---> 0:43:18.000 ] Speaker G : Thank you. Thank you, Maya.
+[ 0:43:18.000 ---> 0:43:18.000 ] Speaker A : Yeah.
+[ 0:43:18.000 ---> 0:43:24.000 ] Speaker B : Thank you for yeah. All right. I see Andrea and then Kibo and then Serby.
+[ 0:43:25.000 ---> 0:43:49.000 ] Speaker D : Cool. So one of those sort of inherent characteristics of systems is that the feedback loops mean that change isn't predictable. I'm curious about mechanisms of change that you see actually changing the network and what kind of things you try to change and the network sort of reasserts itself.
+[ 0:43:50.000 ---> 0:44:02.000 ] Speaker A : Yeah, so true. Also, because this is one of the things that I really love talking to leaders about is that they often do reorganizations and think they redraw the boxes.
+[ 0:44:02.000 ---> 0:44:05.000 ] Speaker B : They say, okay, we are reorganized, and.
+[ 0:44:05.000 ---> 0:44:07.000 ] Speaker A : Then are wondering why it hasn't had.
+[ 0:44:07.000 ---> 0:44:11.000 ] Speaker B : The expected results, and it's because they haven't shifted the networks.
+[ 0:44:11.000 ---> 0:44:16.000 ] Speaker A : So in doing these reorganizations, I think what's really important is to look actually.
+[ 0:44:16.000 ---> 0:44:19.000 ] Speaker B : At their critical connectors and look at.
+[ 0:44:19.000 ---> 0:44:26.000 ] Speaker A : Okay, we're going from these boxes to these boxes, and these new boxes need.
+[ 0:44:26.000 ---> 0:44:31.000 ] Speaker B : To talk to each other who are the critical connectors within each box, and let's get them working together.
+[ 0:44:31.000 ---> 0:44:35.000 ] Speaker A : Let's put them on a joint team, give them joint goals.
+[ 0:44:35.000 ---> 0:44:40.000 ] Speaker B : So put something structural in to encourage that collaboration.
+[ 0:44:40.000 ---> 0:44:44.000 ] Speaker A : And it tends to work best at the critical connector level because they're so.
+[ 0:44:44.000 ---> 0:44:47.000 ] Speaker B : Connected that they tend to bring people along with them.
+[ 0:44:47.000 ---> 0:44:50.000 ] Speaker A : So it's a nice shortcut for making.
+[ 0:44:50.000 ---> 0:44:56.000 ] Speaker B : Change, is working with the people who have disproportionate influence, and then you get the ripple effect.
+[ 0:44:56.000 ---> 0:44:58.000 ] Speaker A : But I think the piece there is.
+[ 0:44:58.000 ---> 0:45:01.000 ] Speaker B : Not just a you two go have lunch together.
+[ 0:45:02.000 ---> 0:45:10.000 ] Speaker A : But it's let's put something concrete where folks have a goal, have a shared.
+[ 0:45:10.000 ---> 0:45:12.000 ] Speaker B : Goal that they need to work towards. Awesome.
+[ 0:45:12.000 ---> 0:45:15.000 ] Speaker A : How does that match your experience, Andrea?
+[ 0:45:15.000 ---> 0:45:17.000 ] Speaker B : Does that ring true for with what you've seen?
+[ 0:45:17.000 ---> 0:45:26.000 ] Speaker D : Yes, absolutely. Especially that shared goal thing I thought was an interesting yeah, great.
+[ 0:45:28.000 ---> 0:45:31.000 ] Speaker B : Okay. Kibo, what are you thinking?
+[ 0:45:32.000 ---> 0:47:42.000 ] Speaker F : I'm wondering about the correlation between critical connectors and overload or being stretched too thin, particularly because the one time that I've done this, something similar to this, it wasn't this exactly, but it was something similar. It was something that we backed into as a result of trying to identify people who were overloaded. And we started with the assumption that the folks who were overloaded, well, actually taking it one step backwards. We were looking for bottlenecks and we started with bottlenecks and from there decided that one interesting area of exploration would be that bottlenecks are caused potentially by people who are overloaded. And then from there looked at what we call the social work that people were undertaking who were overloaded. And we found that it tracked pretty well from one assumption to another. Again, there were just assumptions that we worked from, but it seemed to track really well. And what we used was actually internal messaging tools to figure out because this organization would spin up a new chat channel or a new working group or something like that on a communications platform. So we were able to get some sort of quantitative data about people's contributions and numbers of groups that they were involved in and all of that stuff. But it just struck me that you made that comment earlier about sort of the usual suspects and how those folks end up being so critical to success in an organization, but also being the ones that are the most vulnerable or the organizations around them immediately are the most vulnerable to them leaving or something like that. So just wondering how that relates to your experience.
+[ 0:47:43.000 ---> 0:47:44.000 ] Speaker A : Yeah, no, I think that very much.
+[ 0:47:44.000 ---> 0:47:45.000 ] Speaker B : Relates to my experience.
+[ 0:47:45.000 ---> 0:47:49.000 ] Speaker A : And I think what it makes me think of is if you remember that.
+[ 0:47:49.000 ---> 0:47:52.000 ] Speaker B : Slide with the two columns, one with.
+[ 0:47:52.000 ---> 0:47:53.000 ] Speaker A : Who the leaders thought the influencers were.
+[ 0:47:53.000 ---> 0:47:55.000 ] Speaker B : And who the actual influencers are.
+[ 0:47:56.000 ---> 0:48:00.000 ] Speaker A : What the leaders were doing is they were consistently going to the same 30.
+[ 0:48:00.000 ---> 0:48:02.000 ] Speaker B : People over and over and over again.
+[ 0:48:02.000 ---> 0:48:04.000 ] Speaker A : And of course, those people were starting.
+[ 0:48:04.000 ---> 0:48:06.000 ] Speaker B : To feel overwhelmed, but what they weren't.
+[ 0:48:06.000 ---> 0:48:08.000 ] Speaker A : Doing is they weren't seeing the other.
+[ 0:48:08.000 ---> 0:48:12.000 ] Speaker B : Critical connectors in the organization, some of whom who were not overloaded.
+[ 0:48:12.000 ---> 0:48:20.000 ] Speaker A : And so I think there is that correlation sometimes between being a critical connector.
+[ 0:48:20.000 ---> 0:48:23.000 ] Speaker B : And being overloaded, and then sometimes there.
+[ 0:48:23.000 ---> 0:48:33.000 ] Speaker A : Isn'T because those folks are overlooked. And going down beyond the usual suspects.
+[ 0:48:33.000 ---> 0:48:35.000 ] Speaker B : To the next group can often be.
+[ 0:48:36.000 ---> 0:48:39.000 ] Speaker A : Really helpful because sometimes they'll touch different.
+[ 0:48:39.000 ---> 0:48:43.000 ] Speaker B : Populations, they'll have different points of view.
+[ 0:48:43.000 ---> 0:48:46.000 ] Speaker A : And let me just suspect that one.
+[ 0:48:46.000 ---> 0:48:52.000 ] Speaker B : Of the causes of overload of critical connectors is that this kind of work isn't measured or valued proof performance review yeah, exactly.
+[ 0:48:53.000 ---> 0:48:59.000 ] Speaker A : And what it was just making me think of is I did one of these with the city government and showed.
+[ 0:48:59.000 ---> 0:49:01.000 ] Speaker B : The leaders their list of critical connectors.
+[ 0:49:01.000 ---> 0:49:09.000 ] Speaker A : And they were shocked to find out that this fairly quiet man, who was.
+[ 0:49:09.000 ---> 0:49:15.000 ] Speaker B : An entry level employee in an entry level position was one of the major critical correctors in the organization.
+[ 0:49:16.000 ---> 0:49:19.000 ] Speaker A : And he wasn't showy, but he had.
+[ 0:49:19.000 ---> 0:49:23.000 ] Speaker B : A reputation for getting things done and solving problems.
+[ 0:49:23.000 ---> 0:49:24.000 ] Speaker A : And this is one of the things.
+[ 0:49:24.000 ---> 0:49:35.000 ] Speaker B : I love about using Critical Connectors is that it also can bring attention to those folks who are doing amazing work and who aren't recognized for it because.
+[ 0:49:35.000 ---> 0:49:46.000 ] Speaker A : They'Re not showy, because they don't have a title that people expect from an. So I'm not sure I entirely oh, good.
+[ 0:49:46.000 ---> 0:49:47.000 ] Speaker B : I got a heart there from Kibo.
+[ 0:49:47.000 ---> 0:49:50.000 ] Speaker A : Thank you for that and I noticed.
+[ 0:49:50.000 ---> 0:49:51.000 ] Speaker B : We'Re a little short on time and.
+[ 0:49:51.000 ---> 0:49:52.000 ] Speaker A : I want to make sure that we.
+[ 0:49:52.000 ---> 0:49:56.000 ] Speaker B : Have chance for Serby who's been waiting to get her voice in.
+[ 0:49:56.000 ---> 0:50:19.000 ] Speaker H : Yeah, I have a real quick question have you done this since people have been working remotely and have any results shifted or changed? Because I imagine this would be really helpful for folks who are remote and hybrid because you just don't see each other all the time and so even your sight lines into what you thought you could see when people are colocated might not be.
+[ 0:50:20.000 ---> 0:50:57.000 ] Speaker A : Yeah, that's a really good question and what I will say is that most of the studies I've always done have been with people who are not buyer. You know, we were working with multiple locations with the women's pharma again, multiple locations. So I do think that it is a great thing to do. And the other thing that I didn't show you in the Wimberly one is that then you can also use networks to help find matches and Wimberly, that was the town in Texas I mentioned. So what you can also do is use it to find the people who.
+[ 0:50:57.000 ---> 0:51:07.000 ] Speaker B : For example have that area of expertise that you might need. So I think great, great potential for using networks in remote workplaces to help.
+[ 0:51:07.000 ---> 0:51:10.000 ] Speaker A : People find the folks that they need.
+[ 0:51:10.000 ---> 0:51:17.000 ] Speaker B : And see how they fit into a larger hole. So lots to be explored there and.
+[ 0:51:17.000 ---> 0:51:21.000 ] Speaker A : I think we're just about at time but I'm really looking forward to hearing.
+[ 0:51:21.000 ---> 0:51:25.000 ] Speaker B : What you all do with this. I know Rndao is doing some fantastic.
+[ 0:51:25.000 ---> 0:51:28.000 ] Speaker A : And interesting work so I hope this.
+[ 0:51:28.000 ---> 0:51:32.000 ] Speaker B : Has been helpful and spurned some ideas for.

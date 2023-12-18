@@ -1,0 +1,1 @@
+- Parsec is a Web Three data company. In essence, we're like a Google for blockchain data. We're very developer focused, so anybody building on top of Arbitram has easy access to its data. Why Arbitrum? We are very EVM focused. And we're happy to be part of this ecosystem.

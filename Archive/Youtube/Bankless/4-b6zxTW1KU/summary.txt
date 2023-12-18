@@ -1,0 +1,1 @@
+- MEV is sort of this emergent phenomenon that we've observed on smart contract blockchains when people start to actually use them. Around summer 2020, we started seeing a lot of these bots becoming very active. It started having sort of a negative impact on the rest of the system.

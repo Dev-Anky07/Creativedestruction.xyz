@@ -1,0 +1,1 @@
+- A big one is going to be scalability. In my opinion we're going to over the next decade go from ten transactions a second to 10 million transactions per second. As you improve things, Ethereum will be providing more and more utility.

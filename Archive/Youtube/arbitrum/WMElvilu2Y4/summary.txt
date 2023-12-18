@@ -1,0 +1,2 @@
+- Uniswap is the largest on chain marketplace for digital assets. Wallet comes with Arbitrum built in natively available. Check out our Twitter, come by the booth if you're at ETH Denver. Give me out access codes all week.
+- Makes sense for Dex to be a Wally. Why Arbitram? I think we're committed to anything and everything EVM. Building on Arbitram feels like building on ethereum, so that's always been the goal.

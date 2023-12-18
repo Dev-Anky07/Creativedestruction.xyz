@@ -1,0 +1,1 @@
+- A key primitive that we're going to end up needing is a robot that can move things from point A to point B on the solar site. That's actually what we built towards the end of last year and beginning of this year, is a giant robotic forklift.

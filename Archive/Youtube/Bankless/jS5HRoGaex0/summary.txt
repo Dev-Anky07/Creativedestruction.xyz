@@ -1,0 +1,1 @@
+- So, in 2032, you have a node. that runs on your phone every 12 seconds. You download 3.6 megabytes of data, you hash it. You do a couple of elliptic curve equations to check a snark. The whole process just becomes incredibly sleek and seamless.

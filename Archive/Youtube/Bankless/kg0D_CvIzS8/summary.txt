@@ -1,0 +1,1 @@
+- This is timeline from 2002 all the way to 2023. For every bank failure, there is a circle. The size of the circle represents the number of assets in the bank that failed. This represents the second, third, and fourth largest bank failure in US history. All happened this year. Question is, what happens next?

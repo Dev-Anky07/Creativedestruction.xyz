@@ -1,0 +1,1 @@
+- The graph indexes blockchain data. We are moving from the graph network from the Ethereum chain to arbitram. We have just launched phase one and people who love Arbitrum can be getting involved in the Arbitrum community. Eventually all subgraphs can migrate to the Arbitram network.

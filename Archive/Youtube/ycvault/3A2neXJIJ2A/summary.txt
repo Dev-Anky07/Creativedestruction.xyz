@@ -1,0 +1,4 @@
+- Nimail is the head of crypto at Coinbase. He'll talk about the landscape for crypto and why today is just such an exciting time to be able to get into crypto.
+- Coinbase is one of the largest downloaded apps in the world. It started in summer 2012. Where we're headed is billions of users and millions of developers. But we're a small fraction of the way in the crypto industry to where we need to be.
+- I would say it's not too late. This is actually the perfect time. There's scalability, there's security, usability, and I'll walk through a few more of these later. Here's some things for you to think about as you think about whether you want to get into crypto.
+-  crypto is doing for the ownership and for finance, it's composable. All of this excitement will not last unless we can solve one primary problem in crypto, which is scaling. There will be 100 or 1000 more YC startups in this space.

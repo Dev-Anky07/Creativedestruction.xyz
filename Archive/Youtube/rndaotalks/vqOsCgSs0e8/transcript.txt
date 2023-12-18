@@ -1,0 +1,537 @@
+[ 0:00:06.000 ---> 0:00:19.000 ] Speaker A : So Michael today is going to talk to us about peer to peer ecosystems, some topics about cosmolocatalism civilizational transitions. So, yeah, Michael, why don't you go ahead and introduce yourself and kick it off?
+[ 0:00:19.000 ---> 0:00:41.000 ] Speaker B : Yeah, all right. So first of just I'm a Belgian, if that's of any interest, both Flemish and French speaking parents. And 20 years ago I moved to Chiang Mai, Thailand. And I see a good old friend of mine who visited me here, harrison Prickly.
+[ 0:00:42.000 ---> 0:00:43.000 ] Speaker C : Good to see you there.
+[ 0:00:46.000 ---> 0:01:15.000 ] Speaker B : And I created the Peer to Peer Foundation around 2005, which is an observatory of all things peer to peer and commons. Now, just to make clear, what I mean with peer to peer is basically the capacity for non territorial coordination. So the capacity that people now have to connect, communicate, organize, create new value.
+[ 0:01:15.000 ---> 0:01:15.000 ] Speaker C : Streams.
+[ 0:01:17.000 ---> 0:01:33.000 ] Speaker B : By connecting to digital networks. And so create forms of organization and coordination that are no longer bound with geography, which I think is a very important pivot.
+[ 0:01:35.000 ---> 0:01:37.000 ] Speaker C : And yeah, so I think that's enough.
+[ 0:01:37.000 ---> 0:01:50.000 ] Speaker B : And I'll just start with my kind of narrative. So when I say non territorial coordination, I think this is already something that I want to stress how important it.
+[ 0:01:50.000 ---> 0:01:51.000 ] Speaker C : Is because.
+[ 0:01:54.000 ---> 0:02:02.000 ] Speaker B : Basically civilization is a relation between the countryside and the city. When we learned how to create excess.
+[ 0:02:02.000 ---> 0:02:07.000 ] Speaker C : Production in agriculture that could sustain division.
+[ 0:02:07.000 ---> 0:02:32.000 ] Speaker B : Of labor and craftspeople and priests and all of that, so kind of a more complex society. It was an organization of a geographic unit. And the peer to peer relationships that persisted were local, not global. So in other words, in order to manage complexity, we moved to hierarchy because.
+[ 0:02:32.000 ---> 0:02:36.000 ] Speaker C : The peer to peer communication doesn't scale.
+[ 0:02:36.000 ---> 0:03:42.000 ] Speaker B : And so the fact that it now scales that we can globally scale small group dynamics and create mega complex projects on a global scale and even create network nations, as it were, that is a kind of important change in our civilizational history. So that's just something I want to stress. I sometimes say it started really for series in 93 because that's when the web and the browser came and the Internet works became democratized, right? It existed before, I think the chip is in 73 or 71. And there were like small networks like Compute Serve that were used by big multinationals. But the real peer to peer extension of this technology to the people, that's 93. So why I'm saying this, because it's not new. It has been operating in our society for.
+[ 0:03:44.000 ---> 0:03:45.000 ] Speaker C : 30 years.
+[ 0:03:47.000 ---> 0:04:05.000 ] Speaker B : And so it's already very present in the way we organize our society. So I usually show a quadrant that distinguishes the global centralized from the local distributed and for profit and not for profit priorities.
+[ 0:04:05.000 ---> 0:04:12.000 ] Speaker C : So it gives you four formats, four ways of organizing people and value that.
+[ 0:04:13.000 ---> 0:04:17.000 ] Speaker B : Are existing and actually coexisting and competing with each other.
+[ 0:04:17.000 ---> 0:04:21.000 ] Speaker C : So the number one is global centralized.
+[ 0:04:21.000 ---> 0:04:28.000 ] Speaker B : That would be what I call metarchical capitalism. So P to p front end, but.
+[ 0:04:28.000 ---> 0:04:31.000 ] Speaker C : Everything in the back is centralized and.
+[ 0:04:31.000 ---> 0:04:38.000 ] Speaker B : Centrally owned and centrally controlled and surveilled and all of that. So the Facebook and Google, Ubers and.
+[ 0:04:38.000 ---> 0:04:41.000 ] Speaker C : Air and B's of our world, so.
+[ 0:04:41.000 ---> 0:04:46.000 ] Speaker B : I sometimes say we shift from a Marxist capitalism to a prudonian capitalism.
+[ 0:04:47.000 ---> 0:04:50.000 ] Speaker C : Why? Because the idea that value is created.
+[ 0:04:50.000 ---> 0:04:53.000 ] Speaker B : By creating a surplus from human work.
+[ 0:04:53.000 ---> 0:04:57.000 ] Speaker C : Is replaced by creating a surplus, by.
+[ 0:04:57.000 ---> 0:06:26.000 ] Speaker B : Taxing our transactions, right? It's our peer to peer exchanges and sharing that creates the value for these new types of companies who are now the dominant companies in our system. So they have already adapted to peer to peer and sharing and collaboration paradigms, but they extract value from it. Then the next thing would be for profit oriented but distributed. And that's of course the libertarian, proprietarian bitcoin blockchain distributed ledger sphere, which basic ideas that every human being can be an entrepreneur and should be able to link peer to peer without having third parties and monopolies and everything in between, which of course is also very big. I think it went down from 3 trillion to 1 trillion. But it's a huge economy and there are 34 million digital nomads nowadays. And where I live, Chiang Mai, before COVID we had 25,000 people digital nomads here. We had four crypto meetings a week. So this is a real thing, of course, that is also co evolving. Then I talk about the global not for profit orientation and this is where I would put the global commons, the.
+[ 0:06:26.000 ---> 0:06:34.000 ] Speaker C : Global knowledge commons, the commons of knowledge, software and design, the Linux Foundation, the.
+[ 0:06:34.000 ---> 0:06:42.000 ] Speaker B : Arduinos, all these projects, the Wikipedias, that are based on creating a global collaboration and sharing of knowledge.
+[ 0:06:43.000 ---> 0:06:46.000 ] Speaker C : And in the bottom right, I put.
+[ 0:06:46.000 ---> 0:07:08.000 ] Speaker B : Local not for profit distributed orientations. And this is essentially urban or rural local commoning. I did a study in Ghent for the mayor there in 2017. There were 50 urban commons projects in 2008 and there were 500 of them in 2016.
+[ 0:07:08.000 ---> 0:07:12.000 ] Speaker C : So a tenfold increase in urban commoning.
+[ 0:07:13.000 ---> 0:07:25.000 ] Speaker B : In just ten years. And in a city like Ghent, and it's not exceptional, it's a special city, but it's not exceptional because I checked many other places having the same dynamics.
+[ 0:07:26.000 ---> 0:07:29.000 ] Speaker C : So you can find public provisioning, like.
+[ 0:07:29.000 ---> 0:07:52.000 ] Speaker B : Let'S say public housing, which is actually in retreat and in crisis. You can have private housing, which is largely unaffordable for the younger generations nowadays. And you also have now commons based housing, co op housing, cohousing all kinds of alternatives in transport, food are available. So that is what is co emerging.
+[ 0:07:53.000 ---> 0:07:55.000 ] Speaker C : But as I said, there is a.
+[ 0:07:55.000 ---> 0:08:31.000 ] Speaker B : Fair amount of extraction of these new models going on. And so the commoners so the people who are engaged in contributing to these peer to peer commons have a certain interest in creating alternatives where there are more generative market forms that can coexist with the commons. And so you could see another quadrant where you would have on the upper left. So the global and centralized the alternative to platform capitalism would be platform cooperativism.
+[ 0:08:31.000 ---> 0:08:32.000 ] Speaker D : Right?
+[ 0:08:32.000 ---> 0:08:52.000 ] Speaker B : There have been like three conferences on it, the last one was in Rio. So basically you do the same thing. You create a platform where supply and demand can meet and can exchange and can share, but the platform itself is owned either by the workers or by multistakeholder formats.
+[ 0:08:52.000 ---> 0:08:58.000 ] Speaker C : And so the surplus doesn't leave the platform.
+[ 0:08:58.000 ---> 0:09:15.000 ] Speaker B : It can be reinvested in development of platform in the income of the people exchange and produce value on those platforms within the distributed ledger place. I work, for example, with Crypto Commons.
+[ 0:09:15.000 ---> 0:09:19.000 ] Speaker C : Alliance, which are people who tweak the.
+[ 0:09:19.000 ---> 0:09:47.000 ] Speaker B : Design of these spaces because they have slightly different or sometimes radically different values. And so you can have smart contracts but you can have Austrum contracts. So collective contracts rather than individual contracts. You can have credit commons and mutual credit currencies instead of commodity currencies. So there's ways to design distributed ledgers.
+[ 0:09:47.000 ---> 0:09:49.000 ] Speaker C : From a different value perspective.
+[ 0:09:52.000 ---> 0:09:57.000 ] Speaker B : Okay, so when you look at the two other alternatives, the local and the.
+[ 0:09:57.000 ---> 0:10:03.000 ] Speaker C : Global, not for profit oriented commons, that's.
+[ 0:10:03.000 ---> 0:10:07.000 ] Speaker A : Where michael, your audio seems like you have some audio issue.
+[ 0:10:08.000 ---> 0:10:14.000 ] Speaker B : Yeah, I'm afraid there's not much I can do about it. Or maybe close my video, that would help.
+[ 0:10:14.000 ---> 0:10:15.000 ] Speaker D : Perfect.
+[ 0:10:15.000 ---> 0:10:16.000 ] Speaker A : Yeah, we can hear you now.
+[ 0:10:17.000 ---> 0:10:18.000 ] Speaker C : Yeah, all right, sorry.
+[ 0:10:18.000 ---> 0:10:45.000 ] Speaker B : And if need be, I can close the video, which would be a shame. All right, so I introduced the concept of cosmolocalism. And so the reasoning is the following humanity spends three times as much on transport than on making. So our neoliberal globalization, where every product.
+[ 0:10:45.000 ---> 0:10:48.000 ] Speaker C : Now is a mix of things that.
+[ 0:10:48.000 ---> 0:10:56.000 ] Speaker B : Come from 40 different places and they move around thousands of miles. And so in the context of global.
+[ 0:10:56.000 ---> 0:11:01.000 ] Speaker C : Overshoot, the idea of a subsidiarity of.
+[ 0:11:01.000 ---> 0:11:11.000 ] Speaker B : Material production, right, or relocalizing producing locally is attractive. And so the rule of cosmolocalism is.
+[ 0:11:11.000 ---> 0:11:15.000 ] Speaker C : Everything that's heavy is local, everything that's.
+[ 0:11:15.000 ---> 0:11:35.000 ] Speaker B : Light is global and shared. So it's basically the idea of combining an effort to relocalize provisioning systems but keeping the complex cooperation at the level of knowledge, science and technology. So you'd have distributed manufacturing and production.
+[ 0:11:35.000 ---> 0:11:38.000 ] Speaker C : At the base, but you would have.
+[ 0:11:38.000 ---> 0:11:54.000 ] Speaker B : What I call protocol co ops, protocol cooperatives that basically are like the Linux foundations and Wikimedia foundations, which are like the commons of those projects that keep the protocols of cooperation.
+[ 0:11:54.000 ---> 0:11:55.000 ] Speaker D : Right?
+[ 0:11:56.000 ---> 0:11:58.000 ] Speaker C : So you have economies of scope.
+[ 0:11:59.000 ---> 0:12:04.000 ] Speaker B : Capitalism is based on economies of scale, producing more of a product to make.
+[ 0:12:04.000 ---> 0:12:08.000 ] Speaker C : It cheaper, but using more matter and.
+[ 0:12:08.000 ---> 0:12:13.000 ] Speaker B : Energy to do this. Economies of scope is doing more with the same. And so the basic idea, of course.
+[ 0:12:13.000 ---> 0:12:17.000 ] Speaker C : Is that any change in the network.
+[ 0:12:17.000 ---> 0:12:25.000 ] Speaker B : In terms of knowledge can be used by the whole network. So technological innovations move very fast physically.
+[ 0:12:25.000 ---> 0:12:28.000 ] Speaker C : In the whole network and people constantly.
+[ 0:12:28.000 ---> 0:12:47.000 ] Speaker B : Learn from each other through this translocal cooperation. Well, I hope that makes sense. And we have a book about it, The Cosmolocal Reader, which has like maybe 40 case studies. This is something I think is also important to look at.
+[ 0:12:48.000 ---> 0:12:55.000 ] Speaker C : I basically look at history as a competition between coordination systems, like very basically.
+[ 0:12:55.000 ---> 0:12:59.000 ] Speaker B : And this is from Michael Hudson, who has a few books about this.
+[ 0:12:59.000 ---> 0:13:03.000 ] Speaker C : You couldn't look at history as know.
+[ 0:13:03.000 ---> 0:13:06.000 ] Speaker B : Fairly long, millennial long struggle between the.
+[ 0:13:06.000 ---> 0:13:11.000 ] Speaker C : East Eurasian state oriented imperial model based.
+[ 0:13:11.000 ---> 0:13:32.000 ] Speaker B : On social harmony and the good father, the Emperor, which protects the people from the predations of the market. So markets are subordinated to the state. There are jubilees every 25 or 50 years to cancel the debts and liberate the slaves. And this is all documented very well in the books of Michael Hudson.
+[ 0:13:33.000 ---> 0:13:35.000 ] Speaker C : But in the west, the creditor class.
+[ 0:13:36.000 ---> 0:13:42.000 ] Speaker B : The owner class, took power in Greece that created the revolution, which was Athenian democracy.
+[ 0:13:43.000 ---> 0:13:44.000 ] Speaker C : And so in the west, we have.
+[ 0:13:44.000 ---> 0:13:50.000 ] Speaker B : A maritime trading oriented, market oriented, antagonistic.
+[ 0:13:50.000 ---> 0:13:53.000 ] Speaker C : But democratic system, and they've been fighting.
+[ 0:13:53.000 ---> 0:14:09.000 ] Speaker B : It out for a very long time. And I would even read actually Ukraine as a shock of these two world systems that are finding it out, the Russia China axis, where you can be an oligarch without the approval of the state.
+[ 0:14:09.000 ---> 0:14:10.000 ] Speaker C : And in the west, you can be.
+[ 0:14:11.000 ---> 0:14:17.000 ] Speaker B : A politician without the approval of capital. I'm exaggerating a little bit, but I think there's a lot of truth in what I'm saying.
+[ 0:14:17.000 ---> 0:14:23.000 ] Speaker C : So these two systems have been battling it out, market and state.
+[ 0:14:23.000 ---> 0:14:43.000 ] Speaker B : So it predates capitalism, this struggle predates capitalism, where we have this tension as the central tension of politics, actually, more state or more market is a lot what politics is about. So what we're doing now is revolutionary because we're introducing a third coordination system, right?
+[ 0:14:43.000 ---> 0:14:48.000 ] Speaker C : We are introducing global mutual signaling as.
+[ 0:14:48.000 ---> 0:14:57.000 ] Speaker B : A coordination system stigma chain, so we can adapt in real time to the behavior of other people without market pricing and planning commands.
+[ 0:14:58.000 ---> 0:15:00.000 ] Speaker C : And so this is, of course, where.
+[ 0:15:00.000 ---> 0:15:03.000 ] Speaker B : Crypto comes in, right? All the stuff we're doing at open.
+[ 0:15:03.000 ---> 0:15:07.000 ] Speaker C : Source, and of which I see blockchain.
+[ 0:15:07.000 ---> 0:15:15.000 ] Speaker B : As a continuation of it, is actually creating infrastructures for this new coordination system.
+[ 0:15:15.000 ---> 0:15:19.000 ] Speaker C : To exist, first as part of the mix.
+[ 0:15:20.000 ---> 0:15:27.000 ] Speaker B : But I'm going to argue that it might be actually the core attractor for the future.
+[ 0:15:28.000 ---> 0:15:30.000 ] Speaker C : And so why is that?
+[ 0:15:30.000 ---> 0:15:53.000 ] Speaker B : So, this is my theory that I call the pulsation of the commonest. So civilization and societies move in cycles, ascending cycles, peak descending cycle. This has been happening since the Neolithic. It's very well documented. There's more than one cycle. There's a Conradative cycle, 60 years, there's Hegemonic cycle.
+[ 0:15:53.000 ---> 0:15:56.000 ] Speaker C : In 50 years, there's a 16 generational.
+[ 0:15:56.000 ---> 0:15:59.000 ] Speaker B : Cycle, which is very visible. In Europe, like every 500 years, there.
+[ 0:15:59.000 ---> 0:16:02.000 ] Speaker C : Is a big shift in the socioeconomic system.
+[ 0:16:02.000 ---> 0:16:06.000 ] Speaker B : In Europe. It's very visible. So there are different cycles.
+[ 0:16:06.000 ---> 0:16:18.000 ] Speaker C : But the idea is the following. In the ascending cycle, markets and states do well, but they are extractive institutions based on competition and conquest and they.
+[ 0:16:18.000 ---> 0:16:21.000 ] Speaker B : Provide goods and services for the people in the core.
+[ 0:16:23.000 ---> 0:16:31.000 ] Speaker C : And in that context, the commons weaken. And maybe I should explain what the.
+[ 0:16:31.000 ---> 0:16:37.000 ] Speaker B : Commons are, but I'll do that in a minute. When the descending cycle starts and the.
+[ 0:16:37.000 ---> 0:16:44.000 ] Speaker C : Markets and states are less able to provide goods and services, then people.
+[ 0:16:48.000 ---> 0:16:55.000 ] Speaker B : Dynamize their local commons. So typical example, why is Switzerland and.
+[ 0:16:55.000 ---> 0:16:57.000 ] Speaker C : Austria and Japan so green is because.
+[ 0:16:57.000 ---> 0:17:30.000 ] Speaker B : The mountain flanks are commons and they're managed by the local villages so that they can use them for many, many generations. So the commons are the regenerative and the preserving institution and Marxist states are the extractive institutions and they always overshoot locally, we could move around. So you see, the capitals of empires are always moving around every so many years because they have exhausted their core area. But the global system of capitalism has kind of escaped this for 400 years.
+[ 0:17:30.000 ---> 0:17:35.000 ] Speaker C : And instead we had serial exhaustion. But now we have the point of.
+[ 0:17:35.000 ---> 0:17:47.000 ] Speaker B : Total exhaustion of peak materials in different levels and all the issues that we have in biodiverdiversity and climate, everything. So the problem today is that we.
+[ 0:17:47.000 ---> 0:17:53.000 ] Speaker C : Have an international state system, we have a transnational financial system and this means.
+[ 0:17:53.000 ---> 0:17:56.000 ] Speaker B : That we can no longer change within the nation state.
+[ 0:17:56.000 ---> 0:18:05.000 ] Speaker C : We can try, but if you would have a really radical alternative, within 100 days, your ATMs are empty.
+[ 0:18:05.000 ---> 0:18:07.000 ] Speaker B : It happened in many, many countries in.
+[ 0:18:07.000 ---> 0:18:18.000 ] Speaker C : The last two decades. So the capacity for change at a political level within the nation state is very weak.
+[ 0:18:19.000 ---> 0:18:26.000 ] Speaker B : For example, Carl Polani used to talk about the lib lab cycle. So you have the cognitive cycle, 30 years of high growth, good for labor.
+[ 0:18:26.000 ---> 0:18:32.000 ] Speaker C : Welfare reforms, but it ends with a supply chain crisis.
+[ 0:18:32.000 ---> 0:18:41.000 ] Speaker B : So capital doesn't make enough profit anymore. There's a break, there's a counter revolution, margaret Thatcher and Ronald Reagan, then you.
+[ 0:18:41.000 ---> 0:18:46.000 ] Speaker C : Get a financial phase. The scoot for capital is not so.
+[ 0:18:46.000 ---> 0:18:51.000 ] Speaker B : Good for the demand side. So it ends with the demand crisis, 1870, 319, 29 and 2008.
+[ 0:18:51.000 ---> 0:19:00.000 ] Speaker C : And in those moments, those moments the forces would either pressure for the market.
+[ 0:19:00.000 ---> 0:19:13.000 ] Speaker B : To be primary or for the state to retake control. And that doesn't work anymore, right? And that's the cris of politics. So here is my argument, is that.
+[ 0:19:13.000 ---> 0:19:16.000 ] Speaker C : These protocol co ops, these collaborations that.
+[ 0:19:16.000 ---> 0:19:21.000 ] Speaker B : We are creating, is actually.
+[ 0:19:23.000 ---> 0:19:24.000 ] Speaker C : An emerging.
+[ 0:19:24.000 ---> 0:19:33.000 ] Speaker B : Counterpower at a global scale I call the magisteria of the commons. So there's a commons gap. And so we need to create these.
+[ 0:19:33.000 ---> 0:19:43.000 ] Speaker C : Cosmolocal commons, first of all as a counterpower, but I think eventually as the.
+[ 0:19:43.000 ---> 0:19:55.000 ] Speaker B : Regenerative infrastructure that protects human and non human communities from overuse. So another way to look at this.
+[ 0:19:55.000 ---> 0:20:03.000 ] Speaker C : Right, so we had an immature biosphere many millions of years ago and then.
+[ 0:20:03.000 ---> 0:20:07.000 ] Speaker B : I'm not an expert in this, so we had a great oxygenation event and.
+[ 0:20:07.000 ---> 0:20:10.000 ] Speaker C : Then other stuff happened and life started.
+[ 0:20:10.000 ---> 0:20:14.000 ] Speaker B : Connecting with each other in a kind of cooperative biology, right?
+[ 0:20:14.000 ---> 0:20:17.000 ] Speaker C : And it created Gaia, the Earth system.
+[ 0:20:18.000 ---> 0:20:26.000 ] Speaker B : Which is a homeostatic system which is able to react to disturbances and maintain life. So we went to a mature biosphere.
+[ 0:20:26.000 ---> 0:20:31.000 ] Speaker C : The biosphere creates humanity and culture and.
+[ 0:20:31.000 ---> 0:20:33.000 ] Speaker B : The technosphere, but we have a technosphere.
+[ 0:20:33.000 ---> 0:20:37.000 ] Speaker C : Which endangers the biosphere.
+[ 0:20:37.000 ---> 0:20:37.000 ] Speaker D : Right.
+[ 0:20:37.000 ---> 0:20:39.000 ] Speaker B : So the shift I think this transition.
+[ 0:20:39.000 ---> 0:20:44.000 ] Speaker C : Is the shift towards a mature technosphere.
+[ 0:20:46.000 ---> 0:20:58.000 ] Speaker B : If we realize that, then we can live for a million of years in balance with nature. I don't want to exaggerate it, but I do think that the crypto infrastructure.
+[ 0:20:58.000 ---> 0:21:01.000 ] Speaker C : With all its flaws and its avarice.
+[ 0:21:01.000 ---> 0:21:03.000 ] Speaker B : And many things that are embedded in.
+[ 0:21:03.000 ---> 0:21:06.000 ] Speaker C : It that we could critique, is essentially.
+[ 0:21:07.000 ---> 0:21:17.000 ] Speaker B : Our attempt to create this coordination system. And if AI has any good usage, that will be one of the key uses of it.
+[ 0:21:17.000 ---> 0:21:21.000 ] Speaker C : It's the feedback system from the biosphere to the technosphere.
+[ 0:21:21.000 ---> 0:21:22.000 ] Speaker D : Right.
+[ 0:21:22.000 ---> 0:21:24.000 ] Speaker B : So to teach us to let us.
+[ 0:21:24.000 ---> 0:21:29.000 ] Speaker C : Know with maximum distributed freedom how far.
+[ 0:21:29.000 ---> 0:21:34.000 ] Speaker B : We can go in servicing human needs within planetary boundaries.
+[ 0:21:36.000 ---> 0:21:39.000 ] Speaker C : Okay, I want to submit maybe one.
+[ 0:21:39.000 ---> 0:21:48.000 ] Speaker B : More thing, which is crypto for me. Is that right? So in the cryptosphere I wrote this report called P to P accounting for Planetary Survival.
+[ 0:21:48.000 ---> 0:21:49.000 ] Speaker C : And it shows that there are three.
+[ 0:21:49.000 ---> 0:21:53.000 ] Speaker B : New accounting systems emerging which are responding to this need.
+[ 0:21:53.000 ---> 0:21:56.000 ] Speaker C : First of all, contributory accounting.
+[ 0:21:57.000 ---> 0:22:06.000 ] Speaker B : So this is an old research thing that we did already like seven years ago was called P. Two P value 300 pre production communities already.
+[ 0:22:06.000 ---> 0:22:10.000 ] Speaker C : Then 75% of them had or were.
+[ 0:22:10.000 ---> 0:22:18.000 ] Speaker B : Experimenting with contributory accounting. So it's basically in an open source system, there's always people don't get rewarded.
+[ 0:22:18.000 ---> 0:22:21.000 ] Speaker C : For their contribution and contribution is actually.
+[ 0:22:21.000 ---> 0:22:23.000 ] Speaker B : The key for an open source system.
+[ 0:22:23.000 ---> 0:22:25.000 ] Speaker C : Not a commodity economy.
+[ 0:22:25.000 ---> 0:22:30.000 ] Speaker B : So you have basically the knowledge commons is what creates the value.
+[ 0:22:31.000 ---> 0:22:35.000 ] Speaker C : And then around the commons, entrepreneurs can.
+[ 0:22:35.000 ---> 0:22:37.000 ] Speaker B : Create added value for the market. Right.
+[ 0:22:38.000 ---> 0:22:42.000 ] Speaker C : Because by definition, normally speaking, a non.
+[ 0:22:42.000 ---> 0:22:47.000 ] Speaker B : Rival resource, an abundant resource, doesn't create a tension between supply and demand and.
+[ 0:22:47.000 ---> 0:22:49.000 ] Speaker C : There'S no market mechanism for it.
+[ 0:22:50.000 ---> 0:23:05.000 ] Speaker B : It's in the scarcity field around it, the products and services that you can create around it that can create a dynamic market. And it has to be a generic market, generative market that doesn't destroy and weaken the commons.
+[ 0:23:05.000 ---> 0:23:05.000 ] Speaker C : Right.
+[ 0:23:06.000 ---> 0:23:17.000 ] Speaker B : So the commons economy is not a commodity economy. It's a contributive economy which has markets and state functions around it, but itself, it's a contributive economy.
+[ 0:23:17.000 ---> 0:23:21.000 ] Speaker C : And that is the value shift that we also are going through from a.
+[ 0:23:21.000 ---> 0:23:32.000 ] Speaker B : Commodity paradigm to a contributive paradigm. So contributive accounting is the answer to that is to recognize non market contributions.
+[ 0:23:32.000 ---> 0:23:37.000 ] Speaker C : Within a network system of value. Second, flow accounting.
+[ 0:23:37.000 ---> 0:23:49.000 ] Speaker B : So accounting is how we see and manage the world, right? So the first accounting was a tablet in Samaria. It's the temple that manages the in and outflow of grain and it's the.
+[ 0:23:49.000 ---> 0:23:54.000 ] Speaker C : Creation of the state. The state was created through accounting, and.
+[ 0:23:54.000 ---> 0:23:59.000 ] Speaker B : It'S a separate institutions from the people. Then in the 14th or 15th, 15th.
+[ 0:23:59.000 ---> 0:24:04.000 ] Speaker C : Century, a Franciscan monk, Lucio Pacio.
+[ 0:24:04.000 ---> 0:24:28.000 ] Speaker B : Pacio creates double entry book accounting, and he creates capitalism. But it's a closed entity that can see the profit and capital that is increasing or decreasing for its own needs. So it's an artistic accounting. Now we have flow accounting, 3D accounting, resources, events, agents.
+[ 0:24:29.000 ---> 0:24:37.000 ] Speaker C : So there's no double entry, but everybody can see his transaction within the 3D environment.
+[ 0:24:37.000 ---> 0:24:38.000 ] Speaker D : Right?
+[ 0:24:39.000 ---> 0:24:46.000 ] Speaker C : And then you add to that mix thermodynamic accounting, which is the ability to.
+[ 0:24:46.000 ---> 0:24:49.000 ] Speaker B : See the flows of matter and energy.
+[ 0:24:49.000 ---> 0:24:53.000 ] Speaker C : And the global thresholds and allocations that.
+[ 0:24:53.000 ---> 0:25:07.000 ] Speaker B : Limit human usage of these resources. The crypto world, the open source world, we are building these resources, I think, and we are creating this emerging economy.
+[ 0:25:08.000 ---> 0:25:10.000 ] Speaker C : That represents the future.
+[ 0:25:12.000 ---> 0:25:22.000 ] Speaker B : I'm not saying it's a pure thing and it has a lot of contradictions, but that is the necessity and the promise of it. Now, I do want to make some.
+[ 0:25:22.000 ---> 0:25:23.000 ] Speaker C : Critiques.
+[ 0:25:26.000 ---> 0:25:28.000 ] Speaker B : As a reaction to it, which.
+[ 0:25:28.000 ---> 0:25:32.000 ] Speaker C : Is, I think a lot of crypto.
+[ 0:25:32.000 ---> 0:25:36.000 ] Speaker B : Is motivated by Exodus.
+[ 0:25:36.000 ---> 0:25:45.000 ] Speaker C : In other words, a cognitive elite that thinks it can thrive and survive without the people.
+[ 0:25:46.000 ---> 0:26:01.000 ] Speaker B : And lots of crypto work is of this cognitive level. What are we going to do with our money? How are we going to make decisions with our money? I think that's just a profound weakness, because the problem today in our Western.
+[ 0:26:01.000 ---> 0:26:05.000 ] Speaker C : Society especially, is the split between the.
+[ 0:26:05.000 ---> 0:26:07.000 ] Speaker B : Cognitive and the physical, between the virtuals.
+[ 0:26:07.000 ---> 0:26:20.000 ] Speaker C : And the physicals, between the nowheres and the somewhere, right? So we have a working class which has been battered by deindustrialization, which is.
+[ 0:26:21.000 ---> 0:26:24.000 ] Speaker B : Less educated, less able to use computers.
+[ 0:26:26.000 ---> 0:26:37.000 ] Speaker C : And is moving to the populist parties. And then we have a cognitive elite, an urban elite, an educated elite, which.
+[ 0:26:37.000 ---> 0:26:45.000 ] Speaker B : Is, through its digital knowledge, better able to move around in the digital world and to beat its challenges.
+[ 0:26:45.000 ---> 0:26:49.000 ] Speaker C : And to some degree, crypto is a.
+[ 0:26:49.000 ---> 0:26:51.000 ] Speaker B : Secession of the elite.
+[ 0:26:51.000 ---> 0:26:52.000 ] Speaker C : And I think that's not a good.
+[ 0:26:52.000 ---> 0:26:56.000 ] Speaker B : Thing, by the way, just for those who like history.
+[ 0:26:56.000 ---> 0:26:59.000 ] Speaker C : The secession of the plebs is actually.
+[ 0:26:59.000 ---> 0:27:23.000 ] Speaker B : What the poor would do in Rome. They actually left the city six times to force the patricians to listen to their demands, right? And so Rome couldn't function without them, and then they would obtain social reforms. But Christopher Lash, in the 70s, he started talking about what was it called, the culture of narcissism, about the secession of the elites.
+[ 0:27:24.000 ---> 0:27:27.000 ] Speaker C : So here's what I think is something.
+[ 0:27:27.000 ---> 0:27:36.000 ] Speaker B : That I call for my wishes. We have this growth of urban commoning, the growth of protocol, co ops of these urban commons.
+[ 0:27:38.000 ---> 0:27:41.000 ] Speaker C : And they're not using crypto, and crypto is not doing anything for them.
+[ 0:27:42.000 ---> 0:27:44.000 ] Speaker B : So I think this should be a.
+[ 0:27:44.000 ---> 0:27:50.000 ] Speaker C : Priority, is to create everywhere, organic, technological.
+[ 0:27:50.000 ---> 0:27:55.000 ] Speaker B : Intellectuals that in this cosmolocal paradigm connect.
+[ 0:27:56.000 ---> 0:27:59.000 ] Speaker C : The global knowledge streams and commons to.
+[ 0:27:59.000 ---> 0:28:01.000 ] Speaker B : The needs of local communities.
+[ 0:28:03.000 ---> 0:28:04.000 ] Speaker D : And.
+[ 0:28:07.000 ---> 0:28:09.000 ] Speaker C : I'm actually in touch with a.
+[ 0:28:09.000 ---> 0:28:12.000 ] Speaker B : Group like this and I can't tell you a lot, but there's a Chinese.
+[ 0:28:12.000 ---> 0:28:18.000 ] Speaker C : Diaspora group, the Global Chinese Commons, that.
+[ 0:28:18.000 ---> 0:28:36.000 ] Speaker B : Is renting or buying a number of properties for coworking and community spaces around the world, fully managed with crypto governance techniques. So they govern the physical through crypto, which I think is very, very interesting.
+[ 0:28:36.000 ---> 0:28:53.000 ] Speaker C : And they're a network nation, they have this identity and they have a very specific plan, which is to connect with local communities. So to use the digital class to.
+[ 0:28:53.000 ---> 0:29:14.000 ] Speaker B : Connect with the local communities. This is what I'm talking about. So this is the kind of stuff that I'm looking for, this connection between the physical and the digital. And I don't think crypto is doing enough of that. So I see the question. Global Chinese Commons is the name.
+[ 0:29:15.000 ---> 0:29:16.000 ] Speaker C : I don't know if it's an official.
+[ 0:29:16.000 ---> 0:29:52.000 ] Speaker B : Name, but I saw that on documents and they have actually a center here in Chiang Mai, which is called Fourseas IO. There's not a lot visible to the outside, but it's an interesting project. All right, so I'll just finish with two historical examples. Well, actually, let's say it's the same, so I can remember when I think it was in the first century, hannibal from Know, the Phoenician city at the other side of the Mediterranean, invaded Rome, Italy, and basically destroyed the countryside. It never recovered.
+[ 0:29:53.000 ---> 0:29:56.000 ] Speaker C : And it shifted from smallholder agriculture to.
+[ 0:29:56.000 ---> 0:30:02.000 ] Speaker B : Wine and olive growing slave latifungas, basically.
+[ 0:30:03.000 ---> 0:30:06.000 ] Speaker C : And they never recovered.
+[ 0:30:06.000 ---> 0:30:17.000 ] Speaker B : Despite all the attempts to restore agriculture, it never worked. And the food came from Egypt. When Rome fell in the fifth century, there was no food.
+[ 0:30:18.000 ---> 0:30:28.000 ] Speaker C : And then one person, later called Saint Benedict, who had been a prefect in Rome as a Christian, had moved to.
+[ 0:30:28.000 ---> 0:30:35.000 ] Speaker B : The countryside to Meditate, was called back and created the Benedictine rules.
+[ 0:30:35.000 ---> 0:30:56.000 ] Speaker C : So this was a protocol of cooperation. And the first monastery, I think, is called Monte Casino. Within 50 years, through viral spreading of this model of this basically agricultural co op, he restored what they restored Italian agriculture.
+[ 0:30:56.000 ---> 0:31:08.000 ] Speaker B : In the 11th century, the sister Sanjays did the same. Basically, 70% of the land was recovered.
+[ 0:31:08.000 ---> 0:31:12.000 ] Speaker C : For agriculture, again, in like 50 to.
+[ 0:31:12.000 ---> 0:31:23.000 ] Speaker B : 70 years was done, but through a similar way. So one protocol of cooperation and viral spreading is a very powerful way to transform a society.
+[ 0:31:24.000 ---> 0:31:25.000 ] Speaker C : And I think that's what we're all.
+[ 0:31:26.000 ---> 0:31:30.000 ] Speaker B : Trying to do in some way. And so I'm really honored to talk.
+[ 0:31:30.000 ---> 0:31:32.000 ] Speaker C : Before a group of people who are.
+[ 0:31:32.000 ---> 0:31:41.000 ] Speaker B : Trying to move the needle. And it may seem a long and hard road, but at the same time.
+[ 0:31:41.000 ---> 0:31:45.000 ] Speaker C : Evolution is nonlinear and we are standing.
+[ 0:31:45.000 ---> 0:31:54.000 ] Speaker B : In front of an extraordinary acceleration of human history because all the cycles are concatenating. I don't know if that's the right.
+[ 0:31:54.000 ---> 0:31:59.000 ] Speaker C : Word in English, but all the cycles are actually synchronizing now at the same.
+[ 0:31:59.000 ---> 0:32:06.000 ] Speaker B : Time, to create a meta crisis with global catastrophic risk, but also with enormous potential for change.
+[ 0:32:06.000 ---> 0:32:13.000 ] Speaker C : And so I believe in seeds that are exemplary of the new paradigm and.
+[ 0:32:13.000 ---> 0:32:17.000 ] Speaker B : That eventually connect to each other and eventually create a new society.
+[ 0:32:17.000 ---> 0:32:18.000 ] Speaker C : I think that's probably enough.
+[ 0:32:19.000 ---> 0:32:24.000 ] Speaker B : So I'm open to comments and contributions and eventual questions.
+[ 0:32:25.000 ---> 0:32:26.000 ] Speaker D : Excellent, excellent.
+[ 0:32:26.000 ---> 0:33:57.000 ] Speaker A : Michael, that was amazing. So much comes to mind. But yeah, before we go ahead and open up conversation and questions to the rest of the audience yeah, let's just go ahead and kick one off. We talk about civilizational transitions. It's very interesting because there's many that take the position that the transition from more local and subsidiary economies, like Gills economies, those sorts of things, as that transitions into a more global economy, there was very ideological and economic forces. Those liberal capitalists at the time really thought that subsidiarity was in a sense suppressive. So I'm really interested to hear your opinion on moving forward. I think there's a lot of lessons we can learn from Cosmolocalism and a lot of various different schools of thought. But I'm curious to see how you approach reconciling some potential antagonisms between the local interests and global interests. I know that there is one parallel school of thought called Distributism. It's also known as localism recently that seeks to expand ownership of commons and people as a way to transition into more subsidiary based order. But yeah, just curious to hear your opinion.
+[ 0:33:57.000 ---> 0:34:01.000 ] Speaker C : Well, I'm kind of a critic of.
+[ 0:34:01.000 ---> 0:34:03.000 ] Speaker B : A pure localist approach because I don't.
+[ 0:34:03.000 ---> 0:34:04.000 ] Speaker C : Think it will work.
+[ 0:34:05.000 ---> 0:34:24.000 ] Speaker B : And there are several reasons for that. First of all, if you look at history so the empires, I know this is controversial, but I think it's empirical, they bring peace and order in a large area.
+[ 0:34:25.000 ---> 0:34:31.000 ] Speaker C : So they bring down the level of violence to a substantial level and they create prosperity.
+[ 0:34:33.000 ---> 0:34:48.000 ] Speaker B : And they have intricate complex knowledge. When that knowledge disappears, the population just goes down catastrophically. So there are studies in Peru that.
+[ 0:34:48.000 ---> 0:34:52.000 ] Speaker C : When the Inca empire contracted, for example.
+[ 0:34:52.000 ---> 0:34:56.000 ] Speaker B : They have this complex knowledge of these 50. So they have this kind of what's.
+[ 0:34:56.000 ---> 0:34:58.000 ] Speaker C : It called like level up agriculture.
+[ 0:34:58.000 ---> 0:35:00.000 ] Speaker B : You have like 50 different.
+[ 0:35:02.000 ---> 0:35:04.000 ] Speaker C : Altitudes and.
+[ 0:35:04.000 ---> 0:35:14.000 ] Speaker B : Each altitude generates a different microclimate. The local tribes couldn't do this, right? So when the Inca.
+[ 0:35:16.000 ---> 0:35:19.000 ] Speaker C : Control stopped, like.
+[ 0:35:19.000 ---> 0:35:21.000 ] Speaker B : 90% of the population would disappear.
+[ 0:35:23.000 ---> 0:35:26.000 ] Speaker C : So this is 1 second.
+[ 0:35:27.000 ---> 0:35:29.000 ] Speaker B : We are competing.
+[ 0:35:29.000 ---> 0:35:30.000 ] Speaker C : We are not alone.
+[ 0:35:30.000 ---> 0:35:42.000 ] Speaker B : So you can have a thriving commons or try to have a thriving commons. Let's say the Sinagambia fishermen, they've been doing this for many hundreds of years.
+[ 0:35:43.000 ---> 0:35:44.000 ] Speaker C : But as long as you have these.
+[ 0:35:44.000 ---> 0:35:53.000 ] Speaker B : Big Russian and Chinese and probably American and English ships and Japanese ships, industrially fishing and emptying out your ocean just.
+[ 0:35:53.000 ---> 0:35:57.000 ] Speaker C : Outside of the national miles, you're not going to make it.
+[ 0:35:59.000 ---> 0:36:10.000 ] Speaker B : And so I argue that we need to be technologically, scientifically complex to compete with the existing system.
+[ 0:36:10.000 ---> 0:36:12.000 ] Speaker C : We can't just.
+[ 0:36:13.000 ---> 0:36:31.000 ] Speaker B : Retro romantically think about I mean, some people can do it. I have nothing against people that go back off grid and are happy to do that, but as a kind of societal solution, I think it's not enough.
+[ 0:36:31.000 ---> 0:36:38.000 ] Speaker C : And then the third argument is we are trapped. We have nuclear.
+[ 0:36:40.000 ---> 0:36:53.000 ] Speaker B : Stations, I don't know how many in the world, which require very complex knowledge just to maintain them. And if we don't maintain them, radioactivity would spread everywhere.
+[ 0:36:53.000 ---> 0:36:57.000 ] Speaker C : So we're kind of condemned to really.
+[ 0:36:57.000 ---> 0:37:16.000 ] Speaker B : Think about what is the mix between local and cosmic. We cannot abandon the cosmic level because that's a depository of that complex knowledge. So that's why I argue not just for localism, it's for cosmolocalism, which is.
+[ 0:37:16.000 ---> 0:37:27.000 ] Speaker C : Localism, but enhanced by all the technological and scientific knowledge that we have obtained. And I do think that so you.
+[ 0:37:27.000 ---> 0:37:37.000 ] Speaker B : Have the cycle right up and down. This is true, but it's also empirically true that there is a scaling across time.
+[ 0:37:37.000 ---> 0:37:44.000 ] Speaker C : So you look at cities and you would see over time they scale the sizes of empires.
+[ 0:37:45.000 ---> 0:37:46.000 ] Speaker B : Over time they scale.
+[ 0:37:46.000 ---> 0:37:47.000 ] Speaker D : Right.
+[ 0:37:49.000 ---> 0:37:52.000 ] Speaker B : So human evolution until now has been spiraled.
+[ 0:37:52.000 ---> 0:37:58.000 ] Speaker C : The spiral that means there is a depository of knowledge.
+[ 0:37:58.000 ---> 0:38:08.000 ] Speaker B : And there's actually a thesis which I believe is correct. It's called central civilization. So these networks of cities in the know core has never disappeared.
+[ 0:38:08.000 ---> 0:38:15.000 ] Speaker C : So when Rome fell, byzantium was when when byzantium fell.
+[ 0:38:16.000 ---> 0:38:27.000 ] Speaker B : So there was always like a depository where the kind of like high civilizational knowledge remained. And you sure it went up and down as well.
+[ 0:38:27.000 ---> 0:38:34.000 ] Speaker C : But overall there is the cycle, but within the cycle there is an hour of time.
+[ 0:38:38.000 ---> 0:38:39.000 ] Speaker B : I don't know if we can avoid.
+[ 0:38:39.000 ---> 0:38:42.000 ] Speaker C : A dark age, but I think we.
+[ 0:38:42.000 ---> 0:38:49.000 ] Speaker B : Should try to try to avoid the more catastrophic scenarios.
+[ 0:38:50.000 ---> 0:38:51.000 ] Speaker D : Excellent.
+[ 0:38:51.000 ---> 0:38:52.000 ] Speaker C : Yeah.
+[ 0:38:52.000 ---> 0:39:32.000 ] Speaker A : I think to what we're saying now, one thing you mentioned earlier that really I think made a lot of sense. Click to me is hard, local, soft, global. I think that makes a lot of sense and I think that is wise. One thing just historically too, the Roman Empire was able to provide defense for 1% tax rate, which I think is it wouldn't be possible for something governance that's more local. But yeah, definitely seeing the common ground, middle ground, where we can enhance both is very interesting. But yeah, looks like we have some questions in the audience. Artem, go ahead. Why don't you ask your question?
+[ 0:39:32.000 ---> 0:39:45.000 ] Speaker E : Maybe before I ask my question, quickly, try to answer Praveen's question. Can we define localization beyond the physical sense? I mean, the question in the chat, it's kind of connected to the previous question, so I don't want to ignore it.
+[ 0:39:45.000 ---> 0:39:46.000 ] Speaker A : Yeah, 100%.
+[ 0:39:46.000 ---> 0:39:47.000 ] Speaker C : Yeah.
+[ 0:39:47.000 ---> 0:40:08.000 ] Speaker A : So it looks like Praveen asked, can we define localization beyond the physical sense? If so, what properties would describe local, regional and global? Yeah, just one last line. Finally, how do various variables relate differently to local versus global commons?
+[ 0:40:09.000 ---> 0:40:10.000 ] Speaker D : Right.
+[ 0:40:10.000 ---> 0:40:47.000 ] Speaker B : Okay, so I'm going to use a bit of provocative. And controversial language. So, first of all, the digital and the physical have different properties, right? So the knowledge sphere is non rival and sorry, you know, people with bad experiences with Russia and but so I'm just using technical definition of Marx when he defined communism as from everyone according to his contribution, to everyone according to his need, or something like that.
+[ 0:40:47.000 ---> 0:40:47.000 ] Speaker D : Right?
+[ 0:40:47.000 ---> 0:40:54.000 ] Speaker B : So it means that you have a thing that everybody can use, and it's not a problem. There's no loss.
+[ 0:40:54.000 ---> 0:40:55.000 ] Speaker D : Right?
+[ 0:40:55.000 ---> 0:41:10.000 ] Speaker B : So the global sphere is a sphere of pure sharing. You can have IP if you want to, and I actually advocate not for pure sharing. So you have copyright and copy left, and I actually argue for copy fair.
+[ 0:41:10.000 ---> 0:41:17.000 ] Speaker C : But that's another discussion. So I think that semi protected commons.
+[ 0:41:17.000 ---> 0:41:30.000 ] Speaker B : Make sense to create cooperative networks, because otherwise, if everything is open, multinationals are using your commons, and they have more capital to outcompete you. That's an idea.
+[ 0:41:33.000 ---> 0:41:38.000 ] Speaker C : You cannot manage the scarcity based physical.
+[ 0:41:38.000 ---> 0:41:40.000 ] Speaker B : In the same way that you manage.
+[ 0:41:40.000 ---> 0:41:42.000 ] Speaker C : The abundant digital sphere.
+[ 0:41:43.000 ---> 0:41:43.000 ] Speaker D : Right?
+[ 0:41:43.000 ---> 0:41:50.000 ] Speaker B : So you need different rules of both. I think that's a big difference. And the cosmoloco is about how you.
+[ 0:41:50.000 ---> 0:41:53.000 ] Speaker C : Best mix those two levels.
+[ 0:41:56.000 ---> 0:41:57.000 ] Speaker D : Okay.
+[ 0:41:57.000 ---> 0:42:06.000 ] Speaker B : So I think there's another thing that is important, which so you have entropy and entropy.
+[ 0:42:06.000 ---> 0:42:07.000 ] Speaker D : Right?
+[ 0:42:07.000 ---> 0:42:20.000 ] Speaker B : So entropy is a tendency of the universe to degrade over time. So the more we use something for humans, the more we eventually degrade the.
+[ 0:42:20.000 ---> 0:42:22.000 ] Speaker C : Overall system around it.
+[ 0:42:23.000 ---> 0:42:35.000 ] Speaker B : We use high quality matter, and we degrade the matter. Okay, I'm not an expert in this. So everybody that does ecology tells me.
+[ 0:42:35.000 ---> 0:42:41.000 ] Speaker C : That you can only restore regenerate at a local level.
+[ 0:42:42.000 ---> 0:42:42.000 ] Speaker D : Right?
+[ 0:42:42.000 ---> 0:42:46.000 ] Speaker C : So if we want healthy soils, it's local.
+[ 0:42:47.000 ---> 0:42:59.000 ] Speaker B : It's just local. You need healthy soils. You have to do it locally. So we need to care for our environment. That is a local thing. But the way I see it is you have permaculture.
+[ 0:42:59.000 ---> 0:43:03.000 ] Speaker C : You have your feet in the mud, super local.
+[ 0:43:03.000 ---> 0:43:07.000 ] Speaker B : Your heart is in your community. All the other people around you doing.
+[ 0:43:07.000 ---> 0:43:16.000 ] Speaker C : Permaculture, but your brain is in the global permaculture knowledge exchange.
+[ 0:43:16.000 ---> 0:43:17.000 ] Speaker D : Right?
+[ 0:43:17.000 ---> 0:43:28.000 ] Speaker B : And so that is the combination. It's not opposed to each other. It's complementary to each other. And I do think that local communities.
+[ 0:43:29.000 ---> 0:43:33.000 ] Speaker C : Over time tend to be less innovative.
+[ 0:43:33.000 ---> 0:43:50.000 ] Speaker B : And so that's why you need regular input from the outside and a lot of innovations. There was a book about it I forgot, and I didn't actually read it, but I looked into it, and it gave many examples of, like, technical innovations.
+[ 0:43:50.000 ---> 0:43:54.000 ] Speaker C : Came from people who actually moved in the region.
+[ 0:43:54.000 ---> 0:44:01.000 ] Speaker B : They were not originally from that place. It's outsiders that innovate. So for all these reasons, I believe.
+[ 0:44:02.000 ---> 0:44:04.000 ] Speaker C : We need a mix, and I think.
+[ 0:44:04.000 ---> 0:44:17.000 ] Speaker B : We need to keep the planetary sphere as something that is a good thing. And I think the problem that people.
+[ 0:44:17.000 ---> 0:44:20.000 ] Speaker C : Have in general is that the world.
+[ 0:44:20.000 ---> 0:44:22.000 ] Speaker B : Government, the fear of a world government.
+[ 0:44:22.000 ---> 0:44:26.000 ] Speaker C : Right, is a fear of a global.
+[ 0:44:26.000 ---> 0:44:33.000 ] Speaker B : Centralized force that would oppress everybody. And that's why the system that I.
+[ 0:44:33.000 ---> 0:44:36.000 ] Speaker C : Propose with these three layers, like stigma.
+[ 0:44:36.000 ---> 0:44:38.000 ] Speaker B : G at the bottom, generative markets and.
+[ 0:44:38.000 ---> 0:44:42.000 ] Speaker C : Then contextual planning is a system that.
+[ 0:44:42.000 ---> 0:44:44.000 ] Speaker B : I think allows the maximum amount of.
+[ 0:44:44.000 ---> 0:44:49.000 ] Speaker C : Freedom while preserving the physical balance of the planet, right?
+[ 0:44:49.000 ---> 0:45:19.000 ] Speaker B : Because if we don't do it, then the only alternative will be rationing. So my heart is for distributed solutions and I see these commons, the magisteria of the commons, as democratic contributive, translocal participatory institutions. If you look at the Floss foundations, they usually democratically run there's votes, so.
+[ 0:45:19.000 ---> 0:45:24.000 ] Speaker C : They'Re not run as dictatorships, they're run as civil organizations.
+[ 0:45:26.000 ---> 0:45:28.000 ] Speaker B : And maybe the cryptosphere with all the.
+[ 0:45:28.000 ---> 0:45:33.000 ] Speaker C : Things they're inventing can improve on these.
+[ 0:45:34.000 ---> 0:45:39.000 ] Speaker B : Kind of old fashioned non governmental forms of participation.
+[ 0:45:39.000 ---> 0:45:41.000 ] Speaker C : Because I do think to a large.
+[ 0:45:41.000 ---> 0:45:46.000 ] Speaker B : Degree these are old models that we need to.
+[ 0:45:50.000 ---> 0:45:52.000 ] Speaker C : Excellent, excellent.
+[ 0:45:54.000 ---> 0:45:57.000 ] Speaker A : So, yeah, artem, why don't you go ahead and ask your question?
+[ 0:45:58.000 ---> 0:46:09.000 ] Speaker E : Yes, thank you so much, michelle, thank you very much for the talk. It's a great honor to be able to learn from you and ask you.
+[ 0:46:09.000 ---> 0:46:09.000 ] Speaker B : A.
+[ 0:46:11.000 ---> 0:46:39.000 ] Speaker E : Know I really like the book by David Bolier, free Fair in the Life. I'm sure you know about it. And someone told me that you had a disagreement with David because I think he is very adamant that commons should be distinct from commerce and as far as I understand, you don't agree with that. So I was just very if you don't mind, could you please talk about that?
+[ 0:46:39.000 ---> 0:46:41.000 ] Speaker B : The dispute is between what is the.
+[ 0:46:41.000 ---> 0:46:45.000 ] Speaker C : Right relationship between commons and markets.
+[ 0:46:45.000 ---> 0:46:45.000 ] Speaker D : Right.
+[ 0:46:47.000 ---> 0:46:51.000 ] Speaker B : David, but especially Silke, who died two years ago.
+[ 0:46:54.000 ---> 0:46:59.000 ] Speaker C : They'Re more purists, that's what I would say.
+[ 0:46:59.000 ---> 0:47:01.000 ] Speaker B : In other words, you need to defend.
+[ 0:47:01.000 ---> 0:47:05.000 ] Speaker C : The commons from any contamination from the market.
+[ 0:47:06.000 ---> 0:47:09.000 ] Speaker B : And my answer to that is that.
+[ 0:47:09.000 ---> 0:47:15.000 ] Speaker C : Within capitalism, this condemns the commons to marginality.
+[ 0:47:16.000 ---> 0:47:18.000 ] Speaker B : And one of the brilliant things that.
+[ 0:47:18.000 ---> 0:47:22.000 ] Speaker C : I think Bitcoin has done, and crypto.
+[ 0:47:22.000 ---> 0:47:25.000 ] Speaker B : In general, is to actually create income.
+[ 0:47:25.000 ---> 0:47:28.000 ] Speaker C : For people doing open source development.
+[ 0:47:30.000 ---> 0:47:41.000 ] Speaker B : We need capital for the commons from commons, for capital. So the commons exploited by capital, like airbnb and uber, we need reverse co optation.
+[ 0:47:41.000 ---> 0:47:45.000 ] Speaker C : We need capital that's not necessarily capitalism.
+[ 0:47:45.000 ---> 0:47:47.000 ] Speaker B : Which is a particular way of dealing.
+[ 0:47:47.000 ---> 0:47:49.000 ] Speaker C : With capital, but we need capital resources.
+[ 0:47:50.000 ---> 0:47:59.000 ] Speaker B : To develop the commons. And for me, that requires a healthy relationship between markets and commons. So I talk about generative markets.
+[ 0:47:59.000 ---> 0:48:01.000 ] Speaker C : I think markets are distinct from capitalism.
+[ 0:48:02.000 ---> 0:48:08.000 ] Speaker B : Capitalism is based on markets. But there have been markets before capitalism and these were markets that were more.
+[ 0:48:08.000 ---> 0:48:11.000 ] Speaker C : Embedded in the society.
+[ 0:48:13.000 ---> 0:48:18.000 ] Speaker B : And I think that balance has been lost. And so I think that the idea.
+[ 0:48:18.000 ---> 0:48:25.000 ] Speaker C : Of keeping commons pure is actually counterproductive.
+[ 0:48:26.000 ---> 0:48:30.000 ] Speaker B : I call it hippie commons. Sorry for the hippies, I don't have.
+[ 0:48:30.000 ---> 0:48:32.000 ] Speaker C : Nothing against the hippies, but you probably.
+[ 0:48:32.000 ---> 0:48:41.000 ] Speaker B : Know what I mean by that, right? It's idealism. But if you want to live with your children and your elders and reproduce.
+[ 0:48:41.000 ---> 0:48:45.000 ] Speaker C : Over time, you have to think through.
+[ 0:48:47.000 ---> 0:48:51.000 ] Speaker B : Realistically how you survive in a hostile environment.
+[ 0:48:51.000 ---> 0:48:52.000 ] Speaker D : Right?
+[ 0:48:52.000 ---> 0:48:55.000 ] Speaker B : And so that would be the way I explain my difference.
+[ 0:48:55.000 ---> 0:48:59.000 ] Speaker C : He might have another way to talk about it.
+[ 0:48:59.000 ---> 0:49:11.000 ] Speaker B : And so I get accused of being a pro capitalist and neoliberal, which is I disagree. That's not at all my point. I'm saying we need healthy markets that.
+[ 0:49:11.000 ---> 0:49:14.000 ] Speaker C : Work for the commons and we cannot.
+[ 0:49:14.000 ---> 0:49:22.000 ] Speaker B : Leave the markets to the capitalists. That's what I'm saying. We need to have our own markets as commoners. We need to build these entities that.
+[ 0:49:22.000 ---> 0:49:25.000 ] Speaker C : Allow us to make a living while.
+[ 0:49:25.000 ---> 0:49:27.000 ] Speaker B : Continuing to do the sharing and the.
+[ 0:49:27.000 ---> 0:49:31.000 ] Speaker C : Open source, not do it after.
+[ 0:49:31.000 ---> 0:49:39.000 ] Speaker B : Like when you're a student or when you're an employee. No, we have to do commons when we are working.
+[ 0:49:40.000 ---> 0:49:42.000 ] Speaker C : It's our life.
+[ 0:49:47.000 ---> 0:49:50.000 ] Speaker A : Looks like we have a couple of questions here, so yeah, Daniel.
+[ 0:49:51.000 ---> 0:49:52.000 ] Speaker C : Yeah.
+[ 0:49:52.000 ---> 0:50:34.000 ] Speaker F : Michael, thank you so much. I'm loving this. I wanted to ask you a little bit more about the characteristics or what you think is necessary for an embedded market. I can think about it in a relatively easy to understand term geographically, but if we move outside the geographic layer, what can we think about? So a market behaves and continues to behave as a local or generative market. And I don't know if this has some relation to the value flows accounting, which I would love to ask, but maybe that pushes us too far and there is more people and limited time.
+[ 0:50:35.000 ---> 0:50:53.000 ] Speaker B : So I proposed a few things a few years ago which I think makes sense. So one is based is the idea of a reciprocity based licensing. So basically what you would do is you would split the knowledge sharing from the commercialization rights.
+[ 0:50:53.000 ---> 0:51:02.000 ] Speaker C : So to make it very easy, you have a non commercial Creative Commons license.
+[ 0:51:02.000 ---> 0:51:10.000 ] Speaker B : So everybody can use your knowledge. But if you want to make oh, I see Nina is there as well.
+[ 0:51:10.000 ---> 0:51:10.000 ] Speaker C : Hello.
+[ 0:51:11.000 ---> 0:51:13.000 ] Speaker B : I hadn't seen it before.
+[ 0:51:16.000 ---> 0:51:18.000 ] Speaker C : How to say this?
+[ 0:51:21.000 ---> 0:51:24.000 ] Speaker B : I lost my thread because I saw Nina and.
+[ 0:51:28.000 ---> 0:51:33.000 ] Speaker F : You were talking about the non commercial knowledge sharing and then commercialization.
+[ 0:51:33.000 ---> 0:51:37.000 ] Speaker B : Would be subject to some kind of condition of reciprocity.
+[ 0:51:37.000 ---> 0:51:37.000 ] Speaker D : Right.
+[ 0:51:37.000 ---> 0:51:56.000 ] Speaker B : So it's stronger reciprocity than what you have in an open source license. But it could be very simple. Like you pay some money to be part of the association and that funds the association and then that funds the collective infrastructure. So that's one thing. But then the other thing is we.
+[ 0:51:56.000 ---> 0:52:00.000 ] Speaker C : Can create entities that have some protection.
+[ 0:52:00.000 ---> 0:52:10.000 ] Speaker B : Building like B corporations, social Entrepreneurs, solidarity Economy, cooperative Economy, mission Oriented Enterprise.
+[ 0:52:10.000 ---> 0:52:10.000 ] Speaker D : Right.
+[ 0:52:11.000 ---> 0:52:25.000 ] Speaker B : I think these are all ways that we are trying to domesticate the animal spirits of a pure for profit entity. And I specifically also talked about open.
+[ 0:52:25.000 ---> 0:52:28.000 ] Speaker C : Co ops because even co ops have.
+[ 0:52:28.000 ---> 0:52:35.000 ] Speaker B : Been diagnosed already since the beginning of the 20th century. So managerialism and worker capitalism.
+[ 0:52:35.000 ---> 0:52:38.000 ] Speaker C : So managerialism means that over time, co.
+[ 0:52:38.000 ---> 0:52:40.000 ] Speaker B : Ops do create an elite.
+[ 0:52:40.000 ---> 0:52:42.000 ] Speaker C : And that elite loses touch with the membership.
+[ 0:52:43.000 ---> 0:53:02.000 ] Speaker B : And before you know it, it's only a co op in name, and most people are just working for a wage and they're passive. And then worker capitalism means you're still competing and you start behaving because of it like an ordinary for profit company. So typically know when they go to.
+[ 0:53:02.000 ---> 0:53:05.000 ] Speaker C : Poland, they don't want to share their.
+[ 0:53:05.000 ---> 0:53:09.000 ] Speaker B : Co op shares with the Polish workers. So they hire the Polish workers at.
+[ 0:53:09.000 ---> 0:53:19.000 ] Speaker C : Minimum wage, and then the Polish workers strike against Mongol. That shouldn't happen in a co op, in my view.
+[ 0:53:19.000 ---> 0:53:28.000 ] Speaker B : So the idea of an open co op is to structurally and legally force yourself as a co op to create commons.
+[ 0:53:28.000 ---> 0:53:39.000 ] Speaker C : So for example, if you align yourself with free software, then you're still contributing to the commons.
+[ 0:53:39.000 ---> 0:53:45.000 ] Speaker B : Even if you become managerialist and worker capitalist, you're still producing for the common.
+[ 0:53:45.000 ---> 0:53:46.000 ] Speaker C : Good at the same time.
+[ 0:53:48.000 ---> 0:53:58.000 ] Speaker B : Or a really good example was in Quito. So there's a large housing co op in Quito, very poor people. So instead of paying money for the.
+[ 0:53:58.000 ---> 0:54:00.000 ] Speaker C : House, they pay in time, and they.
+[ 0:54:01.000 ---> 0:54:05.000 ] Speaker B : Need to work 100 hours a year.
+[ 0:54:06.000 ---> 0:54:10.000 ] Speaker C : For the co op. So they help to construct the houses.
+[ 0:54:11.000 ---> 0:54:23.000 ] Speaker B : But they also actually clean the ravines around their housing co op. So in Quito, you don't really see it, but it's flat.
+[ 0:54:23.000 ---> 0:54:28.000 ] Speaker C : But actually it's like with ravines, and people throw out their trash.
+[ 0:54:29.000 ---> 0:54:35.000 ] Speaker B : And so by cleaning the ravines and creating public parks and then donating the.
+[ 0:54:35.000 ---> 0:54:39.000 ] Speaker C : Public park to the public, not only.
+[ 0:54:39.000 ---> 0:55:01.000 ] Speaker B : Do they help themselves, they have a nice park next to their housing co op. It heightens the value of their housing, and they create a service for others. Does that make sense? So I think we should think in that way, like, okay, so, yeah, we are a market. And so don't forget, not for profit doesn't mean no profit.
+[ 0:55:01.000 ---> 0:55:02.000 ] Speaker D : Right?
+[ 0:55:02.000 ---> 0:55:06.000 ] Speaker C : So you have for profit nonprofit, but.
+[ 0:55:06.000 ---> 0:55:09.000 ] Speaker B : Not for profit is in between.
+[ 0:55:09.000 ---> 0:55:15.000 ] Speaker C : It's all those entities which can create a surplus, but their goal is not.
+[ 0:55:15.000 ---> 0:55:19.000 ] Speaker B : To accumulate and create dividends for shareholders.
+[ 0:55:19.000 ---> 0:55:25.000 ] Speaker C : Their goal is their purpose. They're mission oriented, right?
+[ 0:55:25.000 ---> 0:55:31.000 ] Speaker B : And actually, you go back to the history of corporations. Originally, corporations were mission oriented.
+[ 0:55:32.000 ---> 0:55:40.000 ] Speaker C : They had to obtain a royal charter for a particular purpose. That was the original meaning of a corporation.
+[ 0:55:41.000 ---> 0:56:00.000 ] Speaker B : They were mission oriented. And I think we should think about modern forms of and so, for example, in Germany, I met people, and it's actually called mission oriented enterprise. So they protect the leadership, the ethical leadership of the founders, and they keep.
+[ 0:56:00.000 ---> 0:56:04.000 ] Speaker C : The capital separate from the corporate structure, right?
+[ 0:56:04.000 ---> 0:56:09.000 ] Speaker B : So they can accept capital and they can reward capital, but the capital has no voice.
+[ 0:56:09.000 ---> 0:56:13.000 ] Speaker C : It cannot degrade the mission of the enterprise.
+[ 0:56:13.000 ---> 0:56:15.000 ] Speaker B : So I think there's lots of things.
+[ 0:56:15.000 ---> 0:56:18.000 ] Speaker C : We can do to rethink what a.
+[ 0:56:18.000 ---> 0:56:24.000 ] Speaker B : Corporation is, what a for profit is. So if you recognize as a company.
+[ 0:56:25.000 ---> 0:56:28.000 ] Speaker C : That you interdependent and codependent on the.
+[ 0:56:28.000 ---> 0:56:33.000 ] Speaker B : Commons, then it's actually in your self interest to become generative.
+[ 0:56:36.000 ---> 0:56:45.000 ] Speaker A : Excellent. Looks like we have questions from Nina, then we'll have a question from the text from Paul. But yeah, go ahead, Nina.
+[ 0:56:45.000 ---> 0:56:46.000 ] Speaker D : Thank you.
+[ 0:56:46.000 ---> 0:59:26.000 ] Speaker G : Sorry, I didn't oh, you're Daniel. I hadn't got your name yet. Sorry. Hi, Daniel. And then hello, Michelle. Lovely to see you. Interesting real life case study rolling out for me. We've got a whole kind of district network of co ops that we're looking to explore the notions from shareholder value down to even pricing in the community. And I just want to support exactly what you are saying about needing the market consolidation as a reference point, but where interesting, nominal explorations in local pricing can be that first sort of exploration of firewalling, badly overpriced products. I'm talking about agricultural produce and where we formalize the notion of far more accessible pricing for locals who contribute within the local economy. So there are all these kind of incentives to actually enter into the cooperative mentality and to participate in this new experimentation of true bottom up leadership, but with links. Yes, with those links and reference points because part of the profit mechanism of the cooperatives will have to be profit led commercial. But then it's the allowance of the inclusion of the social and developmental and that cooperative community building notion and a recognition of resource constraints that act as a kind of care economy and a solidarity. You know, I think for those purists like David Bollier gosh, does he live in a kind of remote place that he's romanticized it to that degree? It's kind of interesting. I really support your more the gradient that you allow for sensibly, which is urban lifestyles which cannot escape and cannot apply the purism of David Bollier. So I really appreciate your median interpretation of these elements. So I remain a fan.
+[ 0:59:27.000 ---> 0:59:37.000 ] Speaker B : Michelle, just for the non insiders. I was in South Africa recently, so yeah, I know Nina there.
+[ 0:59:41.000 ---> 0:59:42.000 ] Speaker G : Thanks, Michelle.
+[ 0:59:42.000 ---> 0:59:44.000 ] Speaker C : Thanks, Nina.
+[ 0:59:44.000 ---> 0:59:45.000 ] Speaker B : Wonderful.
+[ 0:59:45.000 ---> 1:00:00.000 ] Speaker A : So, yeah, it looks like we have one question from Paul. So how do we change this fear of new world order into something that can support, provide support at a local common level? How do we contain the strong man issues? BRICS versus west?
+[ 1:00:00.000 ---> 1:00:02.000 ] Speaker C : That's a lot of.
+[ 1:00:04.000 ---> 1:00:21.000 ] Speaker B : So I kind of Dreamtopia like a fractal organization. In Italy, you have the first ever pro commons public regulation.
+[ 1:00:21.000 ---> 1:00:26.000 ] Speaker C : It's called the Bologna Regulation for the.
+[ 1:00:27.000 ---> 1:00:31.000 ] Speaker B : Protection and regeneration of urban Commons or something like that.
+[ 1:00:31.000 ---> 1:00:35.000 ] Speaker C : So basically, it's now emulated by 250.
+[ 1:00:36.000 ---> 1:00:42.000 ] Speaker B : Italian cities and it mobilizes 1 million Italian people. So it's a big thing.
+[ 1:00:42.000 ---> 1:00:44.000 ] Speaker C : So you have a city lab or.
+[ 1:00:44.000 ---> 1:00:51.000 ] Speaker B : A commons lab and any group of citizens can propose a commons project and.
+[ 1:00:51.000 ---> 1:00:56.000 ] Speaker C : Say, we want to clean up the river, we want to improve this old.
+[ 1:00:56.000 ---> 1:01:04.000 ] Speaker B : Abandoned factory, we want to make the park better, et cetera, et cetera. So it's about urban renewal and innovation.
+[ 1:01:04.000 ---> 1:01:10.000 ] Speaker C : And all of that. So the second step is there is.
+[ 1:01:10.000 ---> 1:01:23.000 ] Speaker B : A contract, a commons contract, basically, that specifies rights and duties of the parties. For example, I saw this in Gentlemen may seem like trivial, but a group.
+[ 1:01:23.000 ---> 1:01:25.000 ] Speaker C : Of people took over a park, so.
+[ 1:01:25.000 ---> 1:01:28.000 ] Speaker B : It was a commons park and they wanted animals.
+[ 1:01:29.000 ---> 1:01:33.000 ] Speaker C : And they had two pigs and they.
+[ 1:01:33.000 ---> 1:02:06.000 ] Speaker B : Were commons pigs because they had these long tails, they weren't stressed, so they didn't have the curly tails of industrial pigs. And of course the bureaucracy was worried about animal abuse and abandonment. So, all right, it's a regulation. So they agreed, we promised to take care of these animals over many years. And so that's the commons contract rights and obligations.
+[ 1:02:06.000 ---> 1:02:12.000 ] Speaker C : And it's important because even Ostrom said you cannot survive as a commons if.
+[ 1:02:12.000 ---> 1:02:34.000 ] Speaker B : You have the public authorities against you because they'll just send the police. So you need to find some way accommodation with the powers that be, right, okay, so then the next step is that the city mobilizes a support coalition and it's called the five star model, not a five star party. The Quintuple helix model.
+[ 1:02:34.000 ---> 1:02:57.000 ] Speaker C : The city, the commercial sector, the academic sector and the formal nonprofit sector, all four mobilize to help the fifth sector, which is the informal civic common sector, right? So it can be money, it can.
+[ 1:02:57.000 ---> 1:03:17.000 ] Speaker B : Be adapting regulations, it can give space or buildings and all kinds of stuff. So imagine you have this and you tackle every provisioning system because this is what we need to do. We need to mutualize provisioning system. So, for example, shared cars, not Uber.
+[ 1:03:17.000 ---> 1:03:20.000 ] Speaker C : But like associations and co ops, every.
+[ 1:03:20.000 ---> 1:03:28.000 ] Speaker B : Shared car replaces nine to 13 private cars. So you have your neighborhood, you can make an agreement in the neighborhood and.
+[ 1:03:29.000 ---> 1:03:33.000 ] Speaker C : Says, let's reduce our cars. Everybody can drive.
+[ 1:03:33.000 ---> 1:03:34.000 ] Speaker B : So you don't lose the freedom to.
+[ 1:03:34.000 ---> 1:03:41.000 ] Speaker C : Drive and point to point advantage of having a car, but you have I.
+[ 1:03:41.000 ---> 1:03:49.000 ] Speaker B : Don'T know, so I'm not good at math, but five times less cars, right, so you only pay 20% for the same, right?
+[ 1:03:49.000 ---> 1:03:55.000 ] Speaker C : And you only use 20% gas, metal, rubber.
+[ 1:03:56.000 ---> 1:03:56.000 ] Speaker D : Right.
+[ 1:03:57.000 ---> 1:04:11.000 ] Speaker B : So this is what we need to do, like systematically at the urban and rural level, intelligent mutualization of provisioning systems using this support infrastructure, this printable helix infrastructure, right?
+[ 1:04:11.000 ---> 1:04:14.000 ] Speaker C : So then you have like a transport.
+[ 1:04:14.000 ---> 1:04:19.000 ] Speaker B : Co op or whatever. Are you going in every city to invent a wheel?
+[ 1:04:19.000 ---> 1:04:22.000 ] Speaker C : No, you'll have a protocol co op, right?
+[ 1:04:22.000 ---> 1:04:24.000 ] Speaker B : So you have like a league of.
+[ 1:04:24.000 ---> 1:04:35.000 ] Speaker C : Cities that mutualizes their collaboration to create these things and they need the same infrastructure.
+[ 1:04:35.000 ---> 1:04:36.000 ] Speaker D : Right?
+[ 1:04:36.000 ---> 1:04:41.000 ] Speaker B : So you have like this Quintable Helix, again at the cosmo local level.
+[ 1:04:41.000 ---> 1:04:56.000 ] Speaker C : That's the way I see it. And it's a marriage of commons private entrepreneurship, eventually generative private forms and public support.
+[ 1:04:57.000 ---> 1:05:06.000 ] Speaker B : I think that would be like for me, the ideal situation, the role of the state, if you like, of public.
+[ 1:05:06.000 ---> 1:05:11.000 ] Speaker C : Authorities, is to enable and empower local.
+[ 1:05:11.000 ---> 1:05:19.000 ] Speaker B : Autonomy, individual and social autonomy. So not a welfare model, which is like a consumption model where the state.
+[ 1:05:19.000 ---> 1:05:23.000 ] Speaker C : Provides services which are consumed, but a.
+[ 1:05:23.000 ---> 1:05:28.000 ] Speaker B : Model of invigorating, supporting, creating the conditions.
+[ 1:05:28.000 ---> 1:05:35.000 ] Speaker C : For this flowering of civic and entrepreneurial activity.
+[ 1:05:38.000 ---> 1:05:39.000 ] Speaker B : Excellent.
+[ 1:05:40.000 ---> 1:05:46.000 ] Speaker C : Do we have anyone else that wants to ask a question before we cap things off?
+[ 1:05:49.000 ---> 1:05:50.000 ] Speaker D : No. Okay.
+[ 1:05:51.000 ---> 1:05:52.000 ] Speaker A : Well, yeah, I guess I'll just go.
+[ 1:05:52.000 ---> 1:05:57.000 ] Speaker E : Ahead and maybe just help Daniel clarify the fifth layer.
+[ 1:05:58.000 ---> 1:06:05.000 ] Speaker A : Yeah, I did not quite understand the context of that.
+[ 1:06:08.000 ---> 1:06:12.000 ] Speaker F : Yes, please. I'm just missing one of the five, I think.
+[ 1:06:16.000 ---> 1:06:19.000 ] Speaker C : The public, the commercial, the.
+[ 1:06:19.000 ---> 1:06:24.000 ] Speaker B : Academic, the nonprofit, and they support the fifth, which is the civic.
+[ 1:06:26.000 ---> 1:06:26.000 ] Speaker D : Gotcha.
+[ 1:06:26.000 ---> 1:06:31.000 ] Speaker C : Thank you. Excellent. Yeah.
+[ 1:06:32.000 ---> 1:06:42.000 ] Speaker F : Super interesting pattern. I hadn't thought about it more for microorganization design, like, let's say dow design and so on, and makes a lot.
+[ 1:06:42.000 ---> 1:06:45.000 ] Speaker C : Of sense as a fractal pattern.
+[ 1:06:47.000 ---> 1:06:50.000 ] Speaker F : Thank you so much, Michael. This has been fantastic.
+[ 1:06:50.000 ---> 1:06:50.000 ] Speaker B : Thank you.
+[ 1:06:51.000 ---> 1:06:52.000 ] Speaker D : Thank you, guys.
+[ 1:06:52.000 ---> 1:06:53.000 ] Speaker B : Thank you, Nina.
+[ 1:06:54.000 ---> 1:06:54.000 ] Speaker D : Thank you.
+[ 1:06:54.000 ---> 1:06:57.000 ] Speaker G : Thanks, Michelle. Take care. Chat.
+[ 1:06:57.000 ---> 1:06:58.000 ] Speaker D : Thanks.
+[ 1:07:00.000 ---> 1:07:11.000 ] Speaker B : And bye bye. Harrison. Come back to Chiang Mai. The haze is beautiful weather and yeah, let me know when this is shared online.
+[ 1:07:12.000 ---> 1:08:24.000 ] Speaker H : Just a quick comment before everybody leaves. I'm in the US. And I've been researching the US. Corporate entities, and like Michelle mentioned, there's a benefit corporation, or in Oregon, is called a social purpose corporation, which is that not for profit rather than nonprofit or for profit. It's the one in the middle. And also, I've found that in certain states, there's something called the home rule, where you can form a municipality. You can actually have a municipal corporation that writes its own ordinances and so forth. It makes your local community basically sovereign. Of course, it has to stay within federal and state laws, but a lot of times when you're trying to create something in a city, you're running into all the unnecessary city regulations that stop you from doing gray water or whatever.
+[ 1:08:24.000 ---> 1:08:25.000 ] Speaker D : Right.
+[ 1:08:25.000 ---> 1:09:19.000 ] Speaker H : Whereas if you form your own city, your own municipality, you write your own ordinances. So what I've done is I've combined an employee owned producer cooperative as a municipality. A municipality can engage in let's call it market activities, provided that it's for the common good. Well, there's many things that are in the common good housing, jobs, education, food production. So a municipal corporation can engage in those activities for its community. So it sort of combines all five of the things that Michelle has pointed out. Just wanted to mention that.
+[ 1:09:19.000 ---> 1:09:20.000 ] Speaker D : Great. Yeah.
+[ 1:09:20.000 ---> 1:09:22.000 ] Speaker B : You know, let 100 flowers bloom.
+[ 1:09:22.000 ---> 1:09:24.000 ] Speaker C : Right? Say again?
+[ 1:09:24.000 ---> 1:09:47.000 ] Speaker B : All right. Let 100 flowers bloom. Sorry for the reference. It's actually from Mao. Then they did, and he basically put them all in concentration camps afterwards. It was a trick to get the people come out. Anyway, a sad episode from 1980s, I think. Or the 70s.
+[ 1:09:47.000 ---> 1:09:51.000 ] Speaker C : All right, so we're going, right?
+[ 1:09:51.000 ---> 1:09:54.000 ] Speaker B : Because it's like midnight, 30 almost here.
+[ 1:09:56.000 ---> 1:11:36.000 ] Speaker G : All right, thank you for can I make one more remark just now, bouncing off Harrison's idea? What you've just identified is emerging in South Africa again, where top down failure to govern has resulted in such provocative kind of bottom up contestational moves. And I'll give you a wonderful example. A group of 600 homeless people got so sick and tired of the lack of attention from the local government authorities that they put 300 rand, which is that's like $5 aside every month. And together they bought their own 33 hectare stand of land and have literally done exactly what you say. Harrison they have taken ownership from housing. They've gone as far as to get Reserve Bank, mind you, Reserve Bank recognition of a small local municipal bank that they've now cash flowed. And it's the most amazing, interesting model. Not yet linked to crypto or some distributed crypto formation. Michelle but am I watching that with a hawkeye to see how that emerges? Because they've got the land as their territorial asset, now they're adding all the educational layers. Harrison this speaks to the potential it's.
+[ 1:11:36.000 ---> 1:11:46.000 ] Speaker B : Quite a provocative technique, if I may suggest. One thing is to look at Will Ruddick's Project Sarafu in Kenya, South Africa.
+[ 1:11:46.000 ---> 1:11:49.000 ] Speaker C : And different places, because it's a currency.
+[ 1:11:49.000 ---> 1:11:53.000 ] Speaker B : System that is based on the savings groups of local women.
+[ 1:11:53.000 ---> 1:11:54.000 ] Speaker D : That's it.
+[ 1:11:54.000 ---> 1:11:56.000 ] Speaker B : They use as collateral to create extra.
+[ 1:11:56.000 ---> 1:12:00.000 ] Speaker C : Complementary currency, which is trusted because of the collateral.
+[ 1:12:00.000 ---> 1:12:07.000 ] Speaker B : And then they add the blockchain to make all the streams visible, which now generates support from the outside because people.
+[ 1:12:07.000 ---> 1:12:11.000 ] Speaker C : Can see how their money is multiplying.
+[ 1:12:11.000 ---> 1:12:21.000 ] Speaker B : And getting so many people out of poverty. So this kind of mix of the real concrete with the blockchain, that's the kind of things that I'm looking.
