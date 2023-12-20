@@ -25,7 +25,19 @@ with open(csv_filename, "r") as file:
          continue
 
       startTime = time.time()
+
       audio_url = f"./archive/twitter/{username}/{spaces_id}/{spaces_id}.mp3"
+
+      if not os.path.exists(audio_url):
+        print(f"File {spaces_id}.mp3 not found")
+        continue
+
+      unga = f"./archive/twitter/{username}/{spaces_id}/transcript.txt"
+       
+      if os.path.exists(unga):
+        print(f"Summary File exists already")
+        continue
+
       config = aai.TranscriptionConfig(speaker_labels=True)
       transcript = aai.Transcriber().transcribe(audio_url, config)
       #print(transcript.text)

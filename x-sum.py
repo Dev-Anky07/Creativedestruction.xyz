@@ -26,6 +26,16 @@ with open(csv_filename, "r") as file:
        
        startTime = time.time()
        audio_url = f"./archive/twitter/{username}/{spaces_id}/{spaces_id}.mp3"
+       
+       if not os.path.exists(audio_url):
+        print(f"File {spaces_id}.mp3 not found")
+        continue
+
+       unga = f"./archive/twitter/{username}/{spaces_id}/summary.txt"
+
+       if os.path.exists(unga):
+        print(f"Summary File : " + str(spaces_id) + " : exists already")
+        continue
 
        config = aai.TranscriptionConfig(
            summarization=True,
@@ -46,7 +56,7 @@ with open(csv_filename, "r") as file:
          if transcript.summary is not None:
            file.write(transcript.summary)
          else:
+          print("Error Processing file : " + str(spaces_id) + " : Error 404 : Retrying ")
 
 
-
-          print("Summarized all files from " + str(username) + " Successfully 🎉✨")
+print("TLDR'd all files from " + str(username) + " Successfully 🎉✨")

@@ -21,8 +21,12 @@ with open(csv_filename, "r") as file:
 
       startTime = time.time()
       directory = f'./archive/twitter/{username}/{spaces_id}'
+      unga = f'./archive/twitter/{username}/{spaces_id}/{spaces_id}.mp3'
       os.makedirs(directory, exist_ok=True)
 
+      if os.path.exists(unga):
+        print(f"File : {spaces_id}.mp3 already exists")
+        continue
       # Download the Twitter space
       subprocess.run(['twspace_dl', '-i', url, '-c', 'cookies.txt', '-o', f'{directory}/{spaces_id}']) # subprocess.run(['twspace_dl', '-i', url, '-c', 'cookies.txt', '-o', f'{directory}{spaces_id}']) 
       time.sleep(10)
